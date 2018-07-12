@@ -1,5 +1,5 @@
 {{--
-  Template Name: hermaticdoor Template
+  Template Name: hermatic-slidingdoors-id Template
 --}}
 
 @extends('layouts.app')
@@ -19,18 +19,18 @@
         <a class="nav-link" href="http://dutacitra.test/"><h5>Home</h5> <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#images"><h5>Images</h5></a>
+        <a class="nav-link" href="#images"><h5>Gambar</h5></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#contact"><h5>Contact Me</h5></a>
+        <a class="nav-link" href="#contact"><h5>Kontak Kami</h5></a>
       </li>
     </ul>
   </div>
 </nav>
   {{--  End of Navigation Bar  --}}
 <a href="#" class="back-to-top2" style="background: none; margin: 0%; position: fixed; bottom: 20px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px">
-    <i class="fas fa-angle-double-up"></i>
-</a>
+  <i class="fa fa-angle-double-up"></i>
+</a>  
   {{--  Start of Header  --}}
 <div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%">
   <div class="container-fluid" style="position: relative;">
@@ -81,7 +81,7 @@
   </div>
 </div>
   {{--  End of Description  --}}
-  {{--  Start of Images  --}}
+  {{--  Start of GAMBAR PROYEK  --}}
 <div class="container" id="images">
   <div class="form-group">
     &nbsp;
@@ -91,8 +91,8 @@
   </div>
   <div class="row justify-content-center">
     <div class="col-4">
-      <h1 class="display-4">
-        <p class="text-center">Images</p>
+      <h1>
+        <p class="text-center"><strong>GAMBAR PROYEK</strong></p>
       </h1>
     </div>
   </div>
@@ -139,7 +139,7 @@
 <div class="form-group">
   &nbsp;
 </div>
-  {{--  Start of CONTACT US  --}}
+  {{--  Start of KONTAK KAMI  --}}
 <div style="width: 100%; background-color: #000000">
   <div class="container" id="contact">
     <div class="form-group">
@@ -150,9 +150,9 @@
     </div>
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-white">
-        <h3 class="display-4">
-          <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
-        </h3>
+        <h1>
+          <font color="#6B685F"><p class="text-center"><strong>KONTAK KAMI</strong></p></font>
+        </h1>
       </div>
     </div>
     <div class="form-group">
@@ -166,7 +166,7 @@
             <font color="#999994"><h6>  Michael.W (+6281293237874)</h6></font>
           </li>
           <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#ffffff"> TELEPHONE</font></i></font>
+            <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#ffffff"> TELEPON</font></i></font>
             <font color="#999994"><h6>  (021) 54377520, 29018868, +6285100749223</h6></font>
           </li>
           <li class="list-group-item" style="background-color: #000000">
@@ -182,7 +182,7 @@
             <font color="#999994"><h6>  Website address here</h6></font>
           </li>
           <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#ffffff"> ADDRESS</font></i></font>
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
             <font color="#999994"><h6>  PT. DutaCitra Nusa Jaya</h6></font>
             <font color="#999994"><h6>  Jl. Utan Jati, Ruko Daan Mogot Baru</h6></font>
             <font color="#999994"><h6>  Blok LB 2 No. 15 Kalideres</h5></font>
@@ -207,5 +207,5 @@
     </div>
   </div>
 </div>
-    {{--  End of CONTACT US  --}}
+    {{--  End of KONTAK KAMI  --}}
 @endsection

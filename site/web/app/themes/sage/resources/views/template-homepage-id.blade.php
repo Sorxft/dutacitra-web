@@ -1,5 +1,5 @@
 {{--
-  Template Name: home Template
+  Template Name: home-id Template
 --}}
 
 @extends('layouts.app')
@@ -16,16 +16,16 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link home" href="#"><h5>Home</h5> <span class="sr-only">(current)</span></a>
+        <a class="nav-link home" href="#"><h5>Home</h5><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#aboutus"><h5>About us</h5></a>
+        <a class="nav-link disabled" href="#tentangkami"><h5>Tentang Kami</h5></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#ourproducts"><h5>Products</h5></a>
+        <a class="nav-link" href="#produkkami"><h5>Produk</h5></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#contact"><h5>Contact Us</h5></a>
+        <a class="nav-link disabled" href="#kontak"><h5>Kontak Kami</h5></a>
       </li>
     </ul>
   </div>
@@ -76,9 +76,9 @@
   </div>
 </div>
   {{--  End of Images Slides  --}}
-   {{--  Start ABOUT US  --}}
+   {{--  Start TENTANG KAMI  --}}
 <div style="width: 100%; background-color: #DDDBD2;">
-  <div class="container" id="aboutus">
+  <div class="container" id="tentangkami">
     <div class="form-group">
        &nbsp;
     </div>
@@ -91,7 +91,7 @@
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
         <h2 class="featurette-heading">
-          <p class="text-center">ABOUT US</p>
+          <p class="text-center">TENTANG KAMI</p>
        </h2>
        <p class="lead">
          Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
@@ -112,10 +112,10 @@
     &nbsp;
   </div>
 </div>
-    {{--  End ABOUT US  --}}
+    {{--  End TENTANG KAMI  --}}
     {{--  Start of Card  --}}
 <div style="width: 100%;">
-  <div class="container" id="ourproducts">
+  <div class="container" id="produkkami">
     <div class="form-group">
       &nbsp;
     </div>
@@ -126,10 +126,10 @@
       &nbsp;
     </div>
     <div class="row justify-content-center">
-      <div class="col-4 border-bottom border-success">
-        <h3 class="display-4">
-          <p class="text-center">OUR PRODUCTS</p>
-        </h3>
+      <div class="col-4 border-bottom border-dark">
+        <h1>
+          <p class="text-center"><strong>PRODUK KAMI</strong></p>
+        </h1>
       </div>
     </div>
     <div class="form-group">
@@ -142,10 +142,10 @@
           <img class="card-img-top" src="@asset('images/landscape.jpg')" alt="card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">
-              Title 1
+              Hermetic sliding doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="http://dutacitra.test/hermaticdoor/" class="btn btn-primary">Go somewhere</a>
+            <a href="http://dutacitra.test/hermaticdoor-id/" class="btn btn-primary">Go somewhere</a>
           </div>
         </div>
       </div>
@@ -154,7 +154,7 @@
           <img class="card-img-top" src="@asset('images/windmills.jpg')" alt="card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">
-                Title 2
+                Hermetic swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
@@ -168,13 +168,13 @@
     </div>
     {{--  Start of row 2  --}}
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="card">
           <img class="card-img-top" src="@asset('images/mountains.jpg')" alt="card image cap">
           <div class="card-body">
             <h4 class="card-title">
               <p class="text-center">
-                Title 3
+                Sliding doors
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
@@ -182,12 +182,26 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="card">
           <img class="card-img-top" src="@asset('images/windmills.jpg')" alt="card image cap">
           <div class="card-body">
             <h4 class="card-title text-center">
-                Title 4
+              Swing doors
+            </h4>
+            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card">
+          <img class="card-img-top" src="@asset('images/mountains.jpg')" alt="card image cap">
+          <div class="card-body">
+            <h4 class="card-title">
+              <p class="text-center">
+                Motion 4 doors
+              </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
@@ -201,14 +215,38 @@
     </div>
     {{--  Start of row 3  --}}
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="card">
           <img class="card-img-top" src="@asset('images/mountains.jpg')" alt="card image cap">
           <div class="card-body">
             <h4 class="card-title">
               <p class="text-center">
-                Title 5
+                Revolving doors
               </p>
+            </h4>
+            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card">
+          <img class="card-img-top" src="@asset('images/windmills.jpg')" alt="card image cap">
+          <div class="card-body">
+            <h4 class="card-title text-center">
+                DEEM hermetic sliding doors
+            </h4>
+            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card">
+          <img class="card-img-top" src="@asset('images/windmills.jpg')" alt="card image cap">
+          <div class="card-body">
+            <h4 class="card-title text-center">
+                DEEM hermetic swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="#" class="btn btn-primary">Go somewhere</a>
@@ -229,7 +267,7 @@
   </div>
 </div>
   {{--  End of card  --}}
-  {{--  Start of WHY CHOOSE US  --}}
+  {{--  Start of KEUNGGULAN KAMI  --}}
 <div style="width: 100%; background-color: #A6D9F7">
   <div class="container">
     <div class="form-group">
@@ -244,7 +282,7 @@
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-dark">
         <h1>
-          <p class="text-center">WHY CHOOSE US?</p>
+          <p class="text-center">KEUNGGULAN KAMI</p>
         </h1>
       </div>
     </div>
@@ -257,18 +295,7 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <h2>Heading 1</h2>
-        <div class="form-group">
-          &nbsp;
-        </div>
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
-      </div>
-      <div class="col-md-3 text-center">
-        <i class="fa fa-calendar-alt fa-3x"></i>
-        <div class="form-group">
-          &nbsp;
-        </div>
-        <h2>Heading 2</h2>
+        <h3>Produk Original Dari Eropa</h3>
         <div class="form-group">
           &nbsp;
         </div>
@@ -279,7 +306,18 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <h2>Heading 3</h2>
+        <h3>Menggunakan 2 Motor</h3>
+        <div class="form-group">
+          &nbsp;
+        </div>
+        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
+      </div>
+      <div class="col-md-3 text-center">
+        <i class="fa fa-certificate fa-3x"></i>
+        <div class="form-group">
+          &nbsp;
+        </div>
+        <h3>Garansi & Spare Part Terjamin</h3>
         <div class="form-group">
           &nbsp;
         </div>
@@ -290,7 +328,7 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <h2>Heading 4</h2>
+        <h3>Pelayanan 24 Jam / 7 Hari</h3>
         <div class="form-group">
           &nbsp;
         </div>
@@ -308,8 +346,8 @@
     &nbsp;
   </div>
 </div>
-  {{--  End of WHY CHOOSE US  --}}
-  {{--  Start of Anything Here  --}}
+  {{--  End of KEUNGGULAN KAMI  --}}
+  {{--  Start of KLIEN KAMI  --}}
 <div style="width: 100%;">
   <div class="container">
     <div class="form-group">
@@ -318,14 +356,11 @@
     <div class="form-group">
       &nbsp;
     </div>
-    <div class="form-group">
-      &nbsp;
-    </div>
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-dark">
-        <h3 class="display-4">
-          <p class="text-center">Anything Here I guess</p>
-        </h3>
+        <h1>
+          <p class="text-center"><strong>KLIEN KAMI</strong></p>
+        </h1>
       </div>
     </div>
     <div class="form-group">
@@ -373,10 +408,10 @@
     &nbsp;
   </div>
 </div>
-  {{--  End of Anything Here  --}}
-  {{--  Start of Contact us  --}}
+  {{--  End of KLIEN KAMI --}}
+  {{--  Start of KONTAK KAMI  --}}
 <div style="width: 100%; background-color: #000000">
-  <div class="container" id="contact">
+  <div class="container" id="kontak">
     <div class="form-group">
     &nbsp;
     </div>
@@ -385,9 +420,9 @@
     </div>
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-white">
-        <h3 class="display-4">
-          <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
-        </h3>
+        <h1>
+          <font color="#6B685F"><p class="text-center">KONTAK KAMI</p></font>
+        </h1>
       </div>
     </div>
     <div class="form-group">
@@ -401,7 +436,7 @@
             <font color="#999994"><h6>  Michael.W (+6281293237874)</h6></font>
           </li>
           <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#ffffff"> TELEPHONE</font></i></font>
+            <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#ffffff"> TELEPON</font></i></font>
             <font color="#999994"><h6>  (021) 54377520, 29018868, +6285100749223</h6></font>
           </li>
           <li class="list-group-item" style="background-color: #000000">
@@ -417,7 +452,7 @@
             <font color="#999994"><h6>  Website address here</h6></font>
           </li>
           <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#ffffff"> ADDRESS</font></i></font>
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
             <font color="#999994"><h6>  PT. DutaCitra Nusa Jaya</h6></font>
             <font color="#999994"><h6>  Jl. Utan Jati, Ruko Daan Mogot Baru</h6></font>
             <font color="#999994"><h6>  Blok LB 2 No. 15 Kalideres</h5></font>
@@ -442,5 +477,5 @@
     </div>
   </div>
 </div>
-    {{--  End of CONTACT US  --}}
+    {{--  End of KONTAK KAMI  --}}
 @endsection
