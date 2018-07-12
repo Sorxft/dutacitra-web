@@ -63,7 +63,7 @@
         <p class="lead">
           Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis eusmod semper. Praesent commodo cursus magna, vel scelerisque nnusl consectetur. Fusce dapibus, tellus ac cursus commodo.
         </p>
-        <a class="btn btn-outline-secondary btn-sm" href="#">View PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">View PDF</a>
       </div>
       <div class="col-md-5">
         <img class="featurette-image img-fluid mx-auto rounded" alt="500x500" style="width: 500px; height: 500px" src="@asset('images/mountains.jpg')">
@@ -141,61 +141,71 @@
 </div>
   {{--  Start of CONTACT US  --}}
 <div style="width: 100%; background-color: #000000">
-    <div class="container" id="contact">
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-4 border-bottom border-white">
-                <h3 class="display-4">
-                    <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
-                </h3>
-            </div>
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <ul class="list-group">
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-user-alt fa-lg"><font color="#999994">  Name here</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#999994">  Phone number here</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-fax fa-lg"><font color="#999994">  Fax number here</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-at fa-lg"><font color="#999994">  E-Mail number here</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-globe fa-lg"><font color="#999994">  Website address here</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#999994">  Location here</font></i></font>
-                    </li>
-                </ul>
-            </div>
-        <div class="col-md-6">
-            <font color="#887934"><h2>Heading</h2></font>
-            <font color="#999994"><p>Whatever you want to write here. It better be informative, tell people how to contact you. Oh and dont be a creep. Noo one likes a creep, you could go to jail and you dont wanna go to jail, right? Yeah better stay away from jail.</p></font>
-        </div>
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="form-group" style="margin-bottom: 0%">
-        &nbsp;
-        </div>
+  <div class="container" id="contact">
+    <div class="form-group">
+    &nbsp;
     </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-4 border-bottom border-white">
+        <h3 class="display-4">
+          <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
+        </h3>
+      </div>
+    </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <ul class="list-group">
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-user-alt fa-lg"><font color="#ffffff"> SALES PERSON</font></i></font>
+            <font color="#999994"><h6>  Michael.W (+6281293237874)</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#ffffff"> TELEPHONE</font></i></font>
+            <font color="#999994"><h6>  (021) 54377520, 29018868, +6285100749223</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-fax fa-lg"><font color="#ffffff"> FAX</font></i></font>
+            <font color="#999994"><h6>  (021) 54365703</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-at fa-lg"><font color="#ffffff"> E-MAIL</font></i></font>
+            <font color="#999994"><h6>  dutacitra.nusajaya@yahoo.co.id</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-globe fa-lg"><font color="#ffffff"> WEBSITE</font></i></font>
+            <font color="#999994"><h6>  Website address here</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#ffffff"> ADDRESS</font></i></font>
+            <font color="#999994"><h6>  PT. DutaCitra Nusa Jaya</h6></font>
+            <font color="#999994"><h6>  Jl. Utan Jati, Ruko Daan Mogot Baru</h6></font>
+            <font color="#999994"><h6>  Blok LB 2 No. 15 Kalideres</h5></font>
+            <font color="#999994"><h6>  Jakarta Barat 11840, Indonesia</h6></font>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="embed-responsive" id="map" style="width:100%; height: 100%">
+          <iframe src="https://www.google.com/maps/d/embed?mid=1KUF4ZpXzXlC7wQnxCHtxMyGSbeZ0ag8i" width="640" height="480"></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="form-group" style="margin-bottom: 0%">
+    &nbsp;
+    </div>
+  </div>
 </div>
     {{--  End of CONTACT US  --}}
 @endsection

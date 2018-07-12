@@ -253,7 +253,7 @@
     </div>
     <div class="row">
       <div class="col-md-3 text-center">
-        <i class="fa fa-thumbs-up fa-5x"></i>
+        <i class="fa fa-thumbs-up fa-3x"></i>
         <div class="form-group">
           &nbsp;
         </div>
@@ -264,7 +264,7 @@
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
       </div>
       <div class="col-md-3 text-center">
-        <i class="fa fa-calendar-alt fa-5x"></i>
+        <i class="fa fa-calendar-alt fa-3x"></i>
         <div class="form-group">
           &nbsp;
         </div>
@@ -275,7 +275,7 @@
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
       </div>
       <div class="col-md-3 text-center">
-        <i class="fa fa-cogs fa-5x"></i>
+        <i class="fa fa-cogs fa-3x"></i>
         <div class="form-group">
           &nbsp;
         </div>
@@ -286,7 +286,7 @@
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
       </div>
       <div class="col-md-3 text-center">
-        <i class="fa fa-user-clock fa-5x"></i>
+        <i class="fa fa-user-clock fa-3x"></i>
         <div class="form-group">
           &nbsp;
         </div>
@@ -376,62 +376,71 @@
   {{--  End of Anything Here  --}}
   {{--  Start of Contact us  --}}
 <div style="width: 100%; background-color: #000000">
-    <div class="container" id="contact">
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-4 border-bottom border-white">
-                <h3 class="display-4">
-                    <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
-                </h3>
-            </div>
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <ul class="list-group">
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-user-alt fa-lg"><font color="#999994">  Michael.W (+6281293237874)</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#999994">  (021)54377520, 29018868, +6285100749223</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-fax fa-lg"><font color="#999994">  (021)54365703</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-at fa-lg"><font color="#999994">  dutacitra.nusajaya@yahoo.co.id</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-globe fa-lg"><font color="#999994">  Website address here</font></i></font>
-                    </li>
-                    <li class="list-group-item" style="background-color: #000000">
-                        <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#999994">  Jl. Utan Jati Ruko Daan Mogot Baru, Blok LB 2 No. 15 Kalideres, Jakarta Barat</font></i></font>
-                    </li>
-                </ul>
-            </div>
-        <div class="col-md-6">
-            <div class="embed-responsive" id="map" style="width:100%; height: 400px">
-                <iframe src="https://www.google.com/maps/d/embed?mid=1KUF4ZpXzXlC7wQnxCHtxMyGSbeZ0ag8i" width="640" height="480"></iframe>
-            </div>
-        </div>
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="form-group">
-        &nbsp;
-        </div>
-        <div class="form-group" style="margin-bottom: 0%">
-        &nbsp;
-        </div>
+  <div class="container" id="contact">
+    <div class="form-group">
+    &nbsp;
     </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-4 border-bottom border-white">
+        <h3 class="display-4">
+          <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
+        </h3>
+      </div>
+    </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <ul class="list-group">
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-user-alt fa-lg"><font color="#ffffff"> SALES PERSON</font></i></font>
+            <font color="#999994"><h6>  Michael.W (+6281293237874)</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#ffffff"> TELEPHONE</font></i></font>
+            <font color="#999994"><h6>  (021) 54377520, 29018868, +6285100749223</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-fax fa-lg"><font color="#ffffff"> FAX</font></i></font>
+            <font color="#999994"><h6>  (021) 54365703</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-at fa-lg"><font color="#ffffff"> E-MAIL</font></i></font>
+            <font color="#999994"><h6>  dutacitra.nusajaya@yahoo.co.id</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-globe fa-lg"><font color="#ffffff"> WEBSITE</font></i></font>
+            <font color="#999994"><h6>  Website address here</h6></font>
+          </li>
+          <li class="list-group-item" style="background-color: #000000">
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#ffffff"> ADDRESS</font></i></font>
+            <font color="#999994"><h6>  PT. DutaCitra Nusa Jaya</h6></font>
+            <font color="#999994"><h6>  Jl. Utan Jati, Ruko Daan Mogot Baru</h6></font>
+            <font color="#999994"><h6>  Blok LB 2 No. 15 Kalideres</h5></font>
+            <font color="#999994"><h6>  Jakarta Barat 11840, Indonesia</h6></font>
+          </li>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="embed-responsive" id="map" style="width:100%; height: 100%">
+          <iframe src="https://www.google.com/maps/d/embed?mid=1KUF4ZpXzXlC7wQnxCHtxMyGSbeZ0ag8i" width="640" height="480"></iframe>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="form-group">
+    &nbsp;
+    </div>
+    <div class="form-group" style="margin-bottom: 0%">
+    &nbsp;
+    </div>
+  </div>
 </div>
     {{--  End of CONTACT US  --}}
 @endsection
