@@ -8,7 +8,7 @@
  {{--  Start of Navigation Bar  --}}
 <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
   <a class="navbar-brand" href="#">
-    <img class="img-responsive" src="@asset('images/logo.png')" style="width: 400px; height: 70px">
+    <img class="img-responsive" src="@asset('images/logo.png')" style="width: 300px; height: 50px">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -16,16 +16,30 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item">
-        <a class="nav-link home" href="#"><h5>Home</h5><span class="sr-only">(current)</span></a>
+        <a class="nav-link home" href="#"><strong>Home</strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#tentangkami"><h5>Tentang Kami</h5></a>
+        <a class="nav-link" href="#tentangkami">Tentang Kami</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <strong>Produk</strong>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
+          <a class="dropdown-item" href="#">Sliding doors</a>
+          <a class="dropdown-item" href="#">Swing doors</a>
+          <a class="dropdown-item" href="#">Motion 4 doors</a>
+          <a class="dropdown-item" href="#">Revolving doors</a>
+          <a class="dropdown-item" href="#">DEEM hermatic sliding doors</a>
+          <a class="dropdown-item" href="#">DEEM hermatic swing doors</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#produkkami">Produk kami</a>
+        </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#produkkami"><h5>Produk</h5></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#kontak"><h5>Kontak Kami</h5></a>
+        <a class="nav-link" href="#kontak">Kontak Kami</a>
       </li>
     </ul>
   </div>
@@ -145,7 +159,7 @@
               Hermetic sliding doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="http://dutacitra.test/hermaticdoor-id/" class="btn btn-primary">Go somewhere</a>
+            <a href="http://dutacitra.test/hermaticdoor-slidingdoors-id/" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -157,7 +171,7 @@
                 Hermetic swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="http://dutacitra.test/hermetic-swingdoors-id/" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -178,7 +192,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -190,7 +204,7 @@
               Swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -204,7 +218,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -225,7 +239,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -237,7 +251,7 @@
                 DEEM hermetic sliding doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -249,7 +263,7 @@
                 DEEM hermetic swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
           </div>
         </div>
       </div>
@@ -429,34 +443,34 @@
     &nbsp;
     </div>
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-6" style="padding-left: 100px">
         <ul class="list-group">
-          <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-user-alt fa-lg"><font color="#ffffff"> SALES PERSON</font></i></font>
-            <font color="#999994"><h6>  Michael.W (+6281293237874)</h6></font>
+          <li class="list-group-item" style="background-color: #000000; padding: 0%">
+            <font color="#887934"><i class="fa fa-user-alt fa-sm"><font color="#ffffff"> SALES PERSON</font></i></font>
+            <p><font color="#999994" size="2">  Michael.W (+6281293237874)</font></p>
           </li>
-          <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-phone-square fa-lg"><font color="#ffffff"> TELEPON</font></i></font>
-            <font color="#999994"><h6>  (021) 54377520, 29018868, +6285100749223</h6></font>
+          <li class="list-group-item" style="background-color: #000000; padding: 0%">
+            <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
+            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223></font></p>
           </li>
-          <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-fax fa-lg"><font color="#ffffff"> FAX</font></i></font>
-            <font color="#999994"><h6>  (021) 54365703</h6></font>
+          <li class="list-group-item" style="background-color: #000000; padding: 0%">
+            <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>
+            <p><font color="#999994" size="2">  (021) 54365703</font></p>
           </li>
-          <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-at fa-lg"><font color="#ffffff"> E-MAIL</font></i></font>
-            <font color="#999994"><h6>  dutacitra.nusajaya@yahoo.co.id</h6></font>
+          <li class="list-group-item" style="background-color: #000000; padding: 0%">
+            <font color="#887934"><i class="fa fa-at fa-sm"><font color="#ffffff"> E-MAIL</font></i></font>
+            <p><font color="#999994" size="2">  dutacitra.nusajaya@yahoo.co.id</font></p>
           </li>
-          <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-globe fa-lg"><font color="#ffffff"> WEBSITE</font></i></font>
-            <font color="#999994"><h6>  Website address here</h6></font>
+          <li class="list-group-item" style="background-color: #000000; padding: 0%">
+            <font color="#887934"><i class="fa fa-globe fa-sm"><font color="#ffffff"> WEBSITE</font></i></font>
+            <p><font color="#999994">  Website address here</font></p>
           </li>
-          <li class="list-group-item" style="background-color: #000000">
-            <font color="#887934"><i class="fa fa-map-marker-alt fa-lg"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
-            <font color="#999994"><h6>  PT. DutaCitra Nusa Jaya</h6></font>
-            <font color="#999994"><h6>  Jl. Utan Jati, Ruko Daan Mogot Baru</h6></font>
-            <font color="#999994"><h6>  Blok LB 2 No. 15 Kalideres</h5></font>
-            <font color="#999994"><h6>  Jakarta Barat 11840, Indonesia</h6></font>
+          <li class="list-group-item" style="background-color: #000000; padding: 0%">
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
+            <p style="margin: 0%"><font color="#999994" size="2">  PT. DutaCitra Nusa Jaya</font></p>
+            <p style="margin: 0%"><font color="#999994" size="2">  Jl. Utan Jati, Ruko Daan Mogot Baru</font></p>
+            <p style="margin: 0%"><font color="#999994" size="2">  Blok LB 2 No. 15 Kalideres</font></p>
+            <p style="margin: 0%"><font color="#999994" size="2">  Jakarta Barat 11840, Indonesia</font></p>
           </li>
         </ul>
       </div>
