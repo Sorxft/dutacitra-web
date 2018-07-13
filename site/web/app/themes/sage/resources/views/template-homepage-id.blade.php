@@ -18,12 +18,9 @@
       <li class="nav-item">
         <a class="nav-link home" href="#"><strong>Home</strong><span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#tentangkami">Tentang Kami</a>
-      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <strong>Produk</strong>
+          Produk
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
@@ -35,8 +32,11 @@
           <a class="dropdown-item" href="#">DEEM hermatic sliding doors</a>
           <a class="dropdown-item" href="#">DEEM hermatic swing doors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#produkkami">Produk kami</a>
+          <a class="dropdown-item" href="#produkkami">Semua produk kami</a>
         </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#tentangkami"><strong>Tentang Kami</strong></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#kontak">Kontak Kami</a>
@@ -159,7 +159,7 @@
               Hermetic sliding doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="http://dutacitra.test/hermaticdoor-slidingdoors-id/" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="http://dutacitra.test/hermaticdoor-slidingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -171,7 +171,7 @@
                 Hermetic swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="http://dutacitra.test/hermetic-swingdoors-id/" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="http://dutacitra.test/hermetic-swingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -192,7 +192,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -204,7 +204,7 @@
               Swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -218,7 +218,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -239,7 +239,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -251,7 +251,7 @@
                 DEEM hermetic sliding doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -263,7 +263,7 @@
                 DEEM hermetic swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info -->></a>
+            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -290,9 +290,6 @@
     <div class="form-group">
       &nbsp;
     </div>
-    <div class="form-group">
-      &nbsp;
-    </div>
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-dark">
         <h1>
@@ -309,10 +306,8 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <h3>Produk Original Dari Eropa</h3>
-        <div class="form-group">
-          &nbsp;
-        </div>
+        <h4>Produk Original Dari Eropa</h4>
+        &nbsp;
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
       </div>
       <div class="col-md-3 text-center">
@@ -320,10 +315,8 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <h3>Menggunakan 2 Motor</h3>
-        <div class="form-group">
-          &nbsp;
-        </div>
+        <h4>Menggunakan 2 Motor Tanpa Carbon Brush</h4>
+        &nbsp;
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
       </div>
       <div class="col-md-3 text-center">
@@ -331,10 +324,8 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <h3>Garansi & Spare Part Terjamin</h3>
-        <div class="form-group">
-          &nbsp;
-        </div>
+        <h4>Garansi & Spare Part Terjamin</h4>
+        &nbsp;
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
       </div>
       <div class="col-md-3 text-center">
@@ -342,10 +333,8 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <h3>Pelayanan 24 Jam / 7 Hari</h3>
-        <div class="form-group">
-          &nbsp;
-        </div>
+        <h4>Pelayanan 24 Jam / 7 Hari</h4>
+        &nbsp;
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
       </div>
     </div>

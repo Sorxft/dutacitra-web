@@ -18,12 +18,9 @@
       <li class="nav-item">
         <a class="nav-link" href="http://dutacitra.test/"><strong>Home</strong><span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#images">Gambar</a>
-      </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <strong>Produk</strong>
+          Produk
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
@@ -37,6 +34,9 @@
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="http://dutacitra.test/#produkkami">Produk kami</a>
         </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#images"><strong>Gambar</strong></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contact">Kontak Kami</a>
