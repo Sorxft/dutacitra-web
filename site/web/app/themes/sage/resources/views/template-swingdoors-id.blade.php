@@ -1,5 +1,5 @@
 {{--
-  Template Name: hermatic-swingdoors-id Template
+  Template Name: swingdoors-id Template
 --}}
 
 @extends('layouts.app')
@@ -54,7 +54,7 @@
     <div class="row" style="padding: 0%">
       <img src="@asset('images/background.jpg')" style="width: 100%; padding: 0%; height: 150px">
       <div class="text-center" style="position: absolute; top: 60%; left: 7%; font-family:Arial, Helvetica, sans-serif">
-        <font color="#ffffff"><h2>HERMETIC SWING DOORS</h2></font>
+        <font color="#ffffff"><h2>SWING DOORS</h2></font>
       </div>
     </div>
   </div>
@@ -72,7 +72,7 @@
     <div class="row featurette">
       <div class="col-md-4 order-md-2">
         <h3 class="featurette-heading">
-          <p>Hermetic swing doors</p>
+          <p>Swing doors</p>
         </h3>
         <p class="text-muted">
           <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh</font>
@@ -105,7 +105,8 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">View Hermetic PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door.pdf">View Vector PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door_operator.pdf">View Vector Operator PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">

@@ -24,13 +24,13 @@ const routes = new Router({
 jQuery(document).ready(() => routes.loadEvents());
 // Start of First-page Arrow
 jQuery(document).ready(function() {
-  var offset = 4500;
-  var duration = 0;
+  var offset = 3800;
+  var duration = 1200;
   jQuery(window).scroll(function() {
   if (jQuery(this).scrollTop() > offset) {
-  jQuery('.back-to-top1').fadeIn(duration);
+  jQuery('.back-to-top1').fadeIn();
   } else {
-  jQuery('.back-to-top1').fadeOut(duration);
+  jQuery('.back-to-top1').fadeOut();
   }
   });
   jQuery('.back-to-top1').click(function(event) {
@@ -43,12 +43,12 @@ jQuery(document).ready(function() {
   // Start of Second-page Arrow
   jQuery(document).ready(function() {
   var offset = 1400;
-  var duration = 0;
+  var duration = 1200;
   jQuery(window).scroll(function() {
   if (jQuery(this).scrollTop() > offset) {
-  jQuery('.back-to-top2').fadeIn(duration);
+  jQuery('.back-to-top2').fadeIn();
   } else {
-  jQuery('.back-to-top2').fadeOut(duration);
+  jQuery('.back-to-top2').fadeOut();
   }
   });
   jQuery('.back-to-top2').click(function(event) {

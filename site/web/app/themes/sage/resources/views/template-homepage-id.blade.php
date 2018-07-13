@@ -25,8 +25,8 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
-          <a class="dropdown-item" href="#">Sliding doors</a>
-          <a class="dropdown-item" href="#">Swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
           <a class="dropdown-item" href="#">Motion 4 doors</a>
           <a class="dropdown-item" href="#">Revolving doors</a>
           <a class="dropdown-item" href="#">DEEM hermatic sliding doors</a>
@@ -45,7 +45,7 @@
   </div>
 </nav>
   {{--  End of Navigation Bar  --}}
-<a href="#" class="back-to-top1" style="background: none; margin: 0%; position: fixed; bottom: 20px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px">
+<a href="#" class="back-to-top1" style="background: none; margin: 0%; position: fixed; bottom: 20px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px; display: none;">
     <i class="fa fa-angle-double-up"></i>
 </a>
   {{--  Start of Images Slides  --}}
@@ -192,7 +192,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/slidingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -204,7 +204,7 @@
               Swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/swingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>

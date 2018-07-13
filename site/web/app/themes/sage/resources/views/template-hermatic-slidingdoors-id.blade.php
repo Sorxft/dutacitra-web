@@ -25,8 +25,8 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
-          <a class="dropdown-item" href="#">Sliding doors</a>
-          <a class="dropdown-item" href="#">Swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
           <a class="dropdown-item" href="#">Motion 4 doors</a>
           <a class="dropdown-item" href="#">Revolving doors</a>
           <a class="dropdown-item" href="#">DEEM hermatic sliding doors</a>
@@ -45,16 +45,16 @@
   </div>
 </nav>
   {{--  End of Navigation Bar  --}}
-<a href="#" class="back-to-top2" style="background: none; margin: 0%; position: fixed; bottom: 20px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px">
+<a href="#" class="back-to-top2" style="background: none; margin: 0%; position: fixed; bottom: 20px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px; display: none;">
   <i class="fa fa-angle-double-up"></i>
 </a>  
   {{--  Start of Header  --}}
-<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%">
+<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%;">
   <div class="container-fluid" style="position: relative;">
     <div class="row" style="padding: 0%">
-      <img src="@asset('images/landscape.jpg')" style="width: 100%; padding: 0%;">
-      <div class="text-center" style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-family:'Courier New', Courier, monospace">
-        <font color="#ffffff"><h1 class="display-4">HERMETIC SLIDING DOORS</h1></font>
+      <img src="@asset('images/background.jpg')" style="width: 100%; padding: 0%; height: 150px">
+      <div class="text-center" style="position: absolute; top: 60%; left: 7%; font-family:Arial, Helvetica, sans-serif">
+        <font color="#ffffff"><h2>HERMETIC SLIDING DOORS</h2></font>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">View PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">View Hermetic PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
