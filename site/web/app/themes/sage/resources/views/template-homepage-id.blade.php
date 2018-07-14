@@ -27,10 +27,10 @@
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
-          <a class="dropdown-item" href="#">Motion 4 doors</a>
-          <a class="dropdown-item" href="#">Revolving doors</a>
-          <a class="dropdown-item" href="#">DEEM hermatic sliding doors</a>
-          <a class="dropdown-item" href="#">DEEM hermatic swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/motion4doors-id/">Motion 4 doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/revolvingdoors-id/">Revolving doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticsliding-id/">DEEM hermatic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticswing-id/">DEEM hermatic swing doors</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="#produkkami">Semua produk kami</a>
         </div>
@@ -218,7 +218,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/motion4doors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -239,7 +239,7 @@
               </p>
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/revolvingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -251,7 +251,7 @@
                 DEEM hermetic sliding doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/deemhermaticsliding-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -263,7 +263,7 @@
                 DEEM hermetic swing doors
             </h4>
             <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="#" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/deemhermaticswing-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>

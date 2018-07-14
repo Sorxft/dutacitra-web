@@ -1,5 +1,5 @@
 {{--
-  Template Name: hermatic-slidingdoors-id Template
+  Template Name: revolvingdoors-id Template
 --}}
 
 @extends('layouts.app')
@@ -49,12 +49,12 @@
   <i class="fa fa-angle-double-up"></i>
 </a>  
   {{--  Start of Header  --}}
-<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%;">
+<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%">
   <div class="container-fluid" style="position: relative;">
     <div class="row" style="padding: 0%">
       <img src="@asset('images/background.jpg')" style="width: 100%; padding: 0%; height: 150px">
       <div class="text-center" style="position: absolute; top: 60%; left: 7%; font-family:Arial, Helvetica, sans-serif">
-        <font color="#ffffff"><h2>HERMETIC SLIDING DOORS</h2></font>
+        <font color="#ffffff"><h2>REVOLVING DOORS</h2></font>
       </div>
     </div>
   </div>
@@ -72,7 +72,7 @@
     <div class="row featurette">
       <div class="col-md-4 order-md-2">
         <h3 class="featurette-heading">
-          <p>Hermetic sliding doors</p>
+          <p>Revolving doors</p>
         </h3>
         <p class="text-muted">
           <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh</font>
@@ -105,7 +105,7 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">View Hermetic PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="#">View Revolving Door PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -232,7 +232,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
-            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
+            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223></font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>
@@ -247,11 +247,12 @@
             <p><font color="#999994">  Website address here</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
+            <font color="#887934" size="4"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
             <p style="margin: 0%"><font color="#999994" size="2">  PT. DutaCitra Nusa Jaya</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Jl. Utan Jati, Ruko Daan Mogot Baru</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Blok LB 2 No. 15 Kalideres</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Jakarta Barat 11840, Indonesia</font></p>
+          </li>
         </ul>
       </div>
       <div class="col-md-6">

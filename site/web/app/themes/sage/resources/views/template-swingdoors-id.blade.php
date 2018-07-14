@@ -27,10 +27,10 @@
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
-          <a class="dropdown-item" href="#">Motion 4 doors</a>
-          <a class="dropdown-item" href="#">Revolving doors</a>
-          <a class="dropdown-item" href="#">DEEM hermatic sliding doors</a>
-          <a class="dropdown-item" href="#">DEEM hermatic swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/motion4doors-id/">Motion 4 doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/revolvingdoors-id/">Revolving doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticsliding-id/">DEEM hermatic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticswing-id/">DEEM hermatic swing doors</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="http://dutacitra.test/#produkkami">Produk kami</a>
         </div>
