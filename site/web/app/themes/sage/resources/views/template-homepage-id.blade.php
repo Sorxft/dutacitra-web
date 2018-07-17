@@ -15,8 +15,14 @@
   </button>
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
+      <li class="nav-item border-right border-dark" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
+        <a href="#"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
+      </li>
+      <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
+        <a href="#"><img class="img-responsive" src="@asset('images/US32.png')"></a>
+      </li>
       <li class="nav-item">
-        <a class="nav-link home" href="#"><strong>Home</strong><span class="sr-only">(current)</span></a>
+        <a class="nav-link home" href="http://dutacitra.test/"><strong>Home</strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
