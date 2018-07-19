@@ -6,7 +6,7 @@
 
 @section('content')
  {{--  Start of Navigation Bar  --}}
-<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark" style="background-color: #005A86">
   <a class="navbar-brand" href="#">
     <img class="img-responsive" src="@asset('images/logo.png')" style="width: 300px; height: 50px">
   </a>
@@ -15,37 +15,37 @@
   </button>
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item border-right border-dark" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
+      <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
         <a href="#"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
         <a href="#"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link home" href="http://dutacitra.test/"><strong>Home</strong><span class="sr-only">(current)</span></a>
+        <a class="nav-link home" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Produk
+          <font color="#ffffff">Produk</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/motion4doors-id/">Motion 4 doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/revolvingdoors-id/">Revolving doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticsliding-id/">DEEM hermatic sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticswing-id/">DEEM hermatic swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/lineardoors-id/">Linear doors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#produkkami">Semua produk kami</a>
+          <a class="dropdown-item" href="#">Produk lain</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#tentangkami"><strong>Tentang Kami</strong></a>
+        <a class="nav-link" href="#tentangkami"><strong><font color="#ffffff">Tentang Kami</font></strong></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#kontak">Kontak Kami</a>
+        <a class="nav-link" href="#tentangkami"><font color="#ffffff">E-mail</font></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#kontak"><strong><font color="#ffffff">Kontak Kami</font></strong></a>
       </li>
     </ul>
   </div>
@@ -164,7 +164,6 @@
             <h4 class="card-title text-center">
               Hermetic sliding doors
             </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="http://dutacitra.test/hermaticdoor-slidingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
@@ -176,7 +175,6 @@
             <h4 class="card-title text-center">
                 Hermetic swing doors
             </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="http://dutacitra.test/hermetic-swingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
@@ -197,7 +195,6 @@
                 Sliding doors
               </p>
             </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="http://dutacitra.test/slidingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
@@ -209,7 +206,6 @@
             <h4 class="card-title text-center">
               Swing doors
             </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="http://dutacitra.test/swingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
@@ -220,10 +216,9 @@
           <div class="card-body">
             <h4 class="card-title">
               <p class="text-center">
-                Motion 4 doors
+                Linear doors
               </p>
             </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
             <a href="http://dutacitra.test/motion4doors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
@@ -233,48 +228,6 @@
     <div class="form-group">
       &nbsp;
     </div>
-    {{--  Start of row 3  --}}
-    <div class="row">
-      <div class="col-md-4">
-        <div class="card">
-          <img class="card-img-top" src="@asset('images/mountains.jpg')" alt="card image cap">
-          <div class="card-body">
-            <h4 class="card-title">
-              <p class="text-center">
-                Revolving doors
-              </p>
-            </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="http://dutacitra.test/revolvingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card">
-          <img class="card-img-top" src="@asset('images/windmills.jpg')" alt="card image cap">
-          <div class="card-body">
-            <h4 class="card-title text-center">
-                DEEM hermetic sliding doors
-            </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="http://dutacitra.test/deemhermaticsliding-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="card">
-          <img class="card-img-top" src="@asset('images/windmills.jpg')" alt="card image cap">
-          <div class="card-body">
-            <h4 class="card-title text-center">
-                DEEM hermetic swing doors
-            </h4>
-            <p class="card-text"> Some quick example text to write onn the card. This is the content of the card.</p>
-            <a href="http://dutacitra.test/deemhermaticswing-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
-    {{--  End of row 3  --}}
   </div>
   <div class="form-group">
     &nbsp;
@@ -351,73 +304,11 @@
   <div class="form-group">
     &nbsp;
   </div>
-  <div class="form-group">
+  <div class="form-group" style="margin-bottom: 0%">
     &nbsp;
   </div>
 </div>
   {{--  End of KEUNGGULAN KAMI  --}}
-  {{--  Start of KLIEN KAMI  --}}
-<div style="width: 100%;">
-  <div class="container">
-    <div class="form-group">
-      &nbsp;
-    </div>
-    <div class="form-group">
-      &nbsp;
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-4 border-bottom border-dark">
-        <h1>
-          <p class="text-center"><strong>KLIEN KAMI</strong></p>
-        </h1>
-      </div>
-    </div>
-    <div class="form-group">
-      &nbsp;
-    </div>
-    <div class="row">
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/windmills.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/landscape.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/mountains.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/landscape.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-    </div>
-    <div class="form-group">
-      &nbsp;
-    </div>
-    <div class="row">
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/windmills.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/landscape.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/mountains.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-      <div class="col-md-3 text-center">
-        <img class="rounded img-thumbnail" src="@asset('images/landscape.jpg')" alt="Generic placeholder image" width="200" height="200">
-      </div>
-    </div>
-  </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
-</div>
-  {{--  End of KLIEN KAMI --}}
   {{--  Start of KONTAK KAMI  --}}
 <div style="width: 100%; background-color: #000000">
   <div class="container" id="kontak">

@@ -6,7 +6,7 @@
 
 @section('content')
   {{--  Start of Navigation Bar  --}}
-<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark" style="background-color: #005A86">
   <a class="navbar-brand" href="#">
     <img class="img-responsive" src="@asset('images/logo.png')" style="width: 300px; height: 50px">
   </a>
@@ -15,37 +15,39 @@
   </button>
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item border-right border-dark" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
+      <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
         <a href="#"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
         <a href="#"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://dutacitra.test/"><strong>Home</strong><span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Produk
+          <font color="#ffffff">Produk</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/motion4doors-id/">Motion 4 doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/revolvingdoors-id/">Revolving doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticsliding-id/">DEEM hermatic sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/deemhermaticswing-id/">DEEM hermatic swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/lineardoors-id/">Linear doors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="http://dutacitra.test/#produkkami">Produk kami</a>
+          <a class="dropdown-item" href="#">Produk lain</a>
+        </div>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <strong><font color="#ffffff">Brosur</font></strong>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">Hermatic</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#images"><strong>Gambar</strong></a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#contact">Kontak Kami</a>
+        <a class="nav-link" href="#contact"><font color="#ffffff">Kontak Kami</font></a>
       </li>
     </ul>
   </div>
@@ -76,12 +78,12 @@
       &nbsp;
     </div>
     <div class="row featurette">
-      <div class="col-md-4 order-md-2">
+      <div class="col-md-4 order-md-2" style="padding-left: 30px">
         <h3 class="featurette-heading">
           <p>Hermetic sliding doors</p>
         </h3>
         <p class="text-muted">
-          <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh</font>
+          <font size="2">The sliding hermetic doors guarantees air tightness thanks to its unique features. Wide range of finish options and functionalities to adapt it to any architectural project.</font>
         </p>
         <div class="form-group">
           &nbsp;
@@ -90,23 +92,31 @@
           <p>Main features</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo</font>
+          <font size="2">The totality of the door is designed to guarantee and ensure hermetic tightness.</font>
+        </p>
+        <hr style="margin-top: 0%; margin-bottom: 0%">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
+          <font size="2">Guaranteed hygiene thanks to materials such as stainless steel or high density laminate.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Elegant design flush-view panel and easy cleaning.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Maximum security.</font>
+        </p>
+        <hr style="margin-top: 0%; margin-bottom: 0%">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
+          <font size="2">Bi-part or single-slide leaf opening.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Fully customizable sizes, finish options and colours.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Wide range of accessories available.</font>
         </p>
         <div class="form-group">
           &nbsp;
@@ -117,16 +127,16 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 700px; height: 550px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 700px; height: 550px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 700px; height: 550px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 700px; height: 550px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -152,64 +162,6 @@
   </div>
 </div>
   {{--  End of Description  --}}
-  {{--  Start of GAMBAR PROYEK  --}}
-<div class="container" id="images">
-  <div class="form-group">
-    &nbsp;
-  </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
-  <div class="row justify-content-center">
-    <div class="col-4">
-      <h1>
-        <p class="text-center"><strong>GAMBAR PROYEK</strong></p>
-      </h1>
-    </div>
-  </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
-  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-    </ol>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img class="d-block w-100 rounded" src="@asset('images/landscape.jpg')" alt="First slide">
-      </div>
-      <div class="carousel-item">
-        <img class="d-block w-100 rounded" src="@asset('images/mountains.jpg')" alt="Second slide">
-      </div>
-      <div class="carousel-item">
-        <img class="d-block w-100 rounded" src="@asset('images/windmills.jpg')" alt="Third slide">
-      </div>
-      <div class="carousel-item">
-        <img class="d-block w-100 rounded" src="@asset('images/beach.jpg')" alt="Fourth slide">
-      </div>
-    </div>
-    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-</div>
-<div class="form-group">
-  &nbsp;
-</div>
-<div class="form-group">
-  &nbsp;
-</div>
-<div class="form-group">
-  &nbsp;
-</div>
   {{--  Start of KONTAK KAMI  --}}
 <div style="width: 100%; background-color: #000000">
   <div class="container" id="contact">
