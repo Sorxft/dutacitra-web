@@ -8,7 +8,7 @@
  {{--  Start of Navigation Bar  --}}
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark" style="background-color: #005A86">
   <a class="navbar-brand" href="#">
-    <img class="img-responsive" src="@asset('images/logo.png')" style="width: 300px; height: 50px">
+    <img class="img-responsive" src="@asset('images/logo.png')" style="width: 250px; height: 40px">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -219,7 +219,7 @@
                 Linear doors
               </p>
             </h4>
-            <a href="http://dutacitra.test/motion4doors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/lineardoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>

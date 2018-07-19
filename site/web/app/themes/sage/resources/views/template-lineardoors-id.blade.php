@@ -205,7 +205,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6" style="padding-right: 30px">
         <div class="embed-responsive" id="map" style="width:100%; height: 100%">
           <iframe src="https://www.google.com/maps/d/embed?mid=1KUF4ZpXzXlC7wQnxCHtxMyGSbeZ0ag8i" width="640" height="480"></iframe>
         </div>
