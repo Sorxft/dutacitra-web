@@ -24,7 +24,7 @@ const routes = new Router({
 jQuery(document).ready(() => routes.loadEvents());
 // Start of First-page Arrow
 jQuery(document).ready(function() {
-  var offset = 3800;
+  var offset = 2200;
   var duration = 1200;
   jQuery(window).scroll(function() {
   if (jQuery(this).scrollTop() > offset) {
@@ -42,7 +42,7 @@ jQuery(document).ready(function() {
   // End of First page arrow
   // Start of Second-page Arrow
   jQuery(document).ready(function() {
-  var offset = 1400;
+  var offset = 700;
   var duration = 1200;
   jQuery(window).scroll(function() {
   if (jQuery(this).scrollTop() > offset) {

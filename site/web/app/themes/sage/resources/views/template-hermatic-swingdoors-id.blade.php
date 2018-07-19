@@ -78,12 +78,12 @@
       &nbsp;
     </div>
     <div class="row featurette">
-      <div class="col-md-4 order-md-2">
+      <div class="col-md-4 order-md-2" style="padding-left: 30px">
         <h3 class="featurette-heading">
           <p>Hermetic swing doors</p>
         </h3>
         <p class="text-muted">
-          <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh</font>
+          <font size="2">Mekanisme unik menjamin kedap udara dari pintu ayun kami. Bisa beradaptasi dengan proyek apa pun dari sudut pandang fungsional dan estetika.</font>
         </p>
         <div class="form-group">
           &nbsp;
@@ -92,23 +92,35 @@
           <p>Main features</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo</font>
+          <font size="2">Pintu dirancang untuk menjamin dan memastikan kedap udara.</font>
+        </p>
+        <hr style="margin-top: 0%; margin-bottom: 0%">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
+          <font size="2">Kebersihan terjamin berkat bahan seperti stainless steel atau high-density laminate.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Flush-view panel desain yang elegan dan mudah dibersihkan.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Keamanan Maksimal.</font>
+        </p>
+        <hr style="margin-top: 0%; margin-bottom: 0%">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
+          <font size="2">Pembukaan one or double leaf</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Pintu dirancang untuk menjamin kebersihan.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Ukuran yang dapat disesuaikan, opsi penyelesaian dan warna.</font>
+        </p>
+        <hr style="margin-top: 0%; margin-bottom: 0%">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
+          <font size="2">Berbagai macam aksesori yang tersedia.</font>
         </p>
         <div class="form-group">
           &nbsp;
@@ -119,16 +131,16 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 700px; height: 600px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 700px; height: 600px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 700px; height: 600px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 700px; height: 500px">
+              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 700px; height: 600px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -182,7 +194,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
-            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223></font></p>
+            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>

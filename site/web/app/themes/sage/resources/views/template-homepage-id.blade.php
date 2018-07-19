@@ -235,80 +235,11 @@
   <div class="form-group">
     &nbsp;
   </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
-</div>
-  {{--  End of card  --}}
-  {{--  Start of KEUNGGULAN KAMI  --}}
-<div style="width: 100%; background-color: #A6D9F7">
-  <div class="container">
-    <div class="form-group">
-      &nbsp;
-    </div>
-    <div class="form-group">
-      &nbsp;
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-4 border-bottom border-dark">
-        <h1>
-          <p class="text-center">KEUNGGULAN KAMI</p>
-        </h1>
-      </div>
-    </div>
-    <div class="form-group">
-      &nbsp;
-    </div>
-    <div class="row">
-      <div class="col-md-3 text-center">
-        <i class="fa fa-thumbs-up fa-3x"></i>
-        <div class="form-group">
-          &nbsp;
-        </div>
-        <h4>Produk Original Dari Eropa</h4>
-        &nbsp;
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
-      </div>
-      <div class="col-md-3 text-center">
-        <i class="fa fa-cogs fa-3x"></i>
-        <div class="form-group">
-          &nbsp;
-        </div>
-        <h4>Menggunakan 2 Motor Tanpa Carbon Brush</h4>
-        &nbsp;
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
-      </div>
-      <div class="col-md-3 text-center">
-        <i class="fa fa-certificate fa-3x"></i>
-        <div class="form-group">
-          &nbsp;
-        </div>
-        <h4>Garansi & Spare Part Terjamin</h4>
-        &nbsp;
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
-      </div>
-      <div class="col-md-3 text-center">
-        <i class="fa fa-user-clock fa-3x"></i>
-        <div class="form-group">
-          &nbsp;
-        </div>
-        <h4>Pelayanan 24 Jam / 7 Hari</h4>
-        &nbsp;
-        <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
-      </div>
-    </div>
-  </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
-  <div class="form-group">
-    &nbsp;
-  </div>
   <div class="form-group" style="margin-bottom: 0%">
     &nbsp;
   </div>
 </div>
-  {{--  End of KEUNGGULAN KAMI  --}}
+  {{--  End of card  --}}
   {{--  Start of KONTAK KAMI  --}}
 <div style="width: 100%; background-color: #000000">
   <div class="container" id="kontak">
@@ -337,7 +268,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
-            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223></font></p>
+            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>
@@ -360,7 +291,7 @@
           </li>
         </ul>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6" style="padding-right: 30px">
         <div class="embed-responsive" id="map" style="width:100%; height: 100%">
           <iframe src="https://www.google.com/maps/d/embed?mid=1KUF4ZpXzXlC7wQnxCHtxMyGSbeZ0ag8i" width="640" height="480"></iframe>
         </div>

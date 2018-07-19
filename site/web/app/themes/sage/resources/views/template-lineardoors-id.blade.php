@@ -78,7 +78,7 @@
       &nbsp;
     </div>
     <div class="row featurette">
-      <div class="col-md-4 order-md-2">
+      <div class="col-md-4 order-md-2" style="padding-left: 30px">
         <h3 class="featurette-heading">
           <p>Linear doors</p>
         </h3>
@@ -182,7 +182,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
-            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223></font></p>
+            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>

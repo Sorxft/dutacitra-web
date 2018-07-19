@@ -83,7 +83,7 @@
           <p>Hermetic sliding doors</p>
         </h3>
         <p class="text-muted">
-          <font size="2">The sliding hermetic doors guarantees air tightness thanks to its unique features. Wide range of finish options and functionalities to adapt it to any architectural project.</font>
+          <font size="2">Pintu geser hermetic menjamin kedap udara berkat fitur uniknya. Mempunyai berbagai pilihan dan fungsi akhir untuk menyesuaikannya dengan proyek arsitektur apa pun.</font>
         </p>
         <div class="form-group">
           &nbsp;
@@ -92,31 +92,31 @@
           <p>Main features</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px">
-          <font size="2">The totality of the door is designed to guarantee and ensure hermetic tightness.</font>
+          <font size="2">Pintu dirancang untuk menjamin dan memastikan kedap udara.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
-          <font size="2">Guaranteed hygiene thanks to materials such as stainless steel or high density laminate.</font>
+          <font size="2">Kebersihan terjamin berkat bahan seperti stainless steel atau high-density laminate.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Elegant design flush-view panel and easy cleaning.</font>
+          <font size="2">Flush-view panel desain yang elegan dan mudah dibersihkan.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Maximum security.</font>
+          <font size="2">Keamanan Maksimal.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
-          <font size="2">Bi-part or single-slide leaf opening.</font>
+          <font size="2">Pembukaan bi-part atau single-slide leaf.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Fully customizable sizes, finish options and colours.</font>
+          <font size="2">Ukuran yang dapat disesuaikan, opsi penyelesaian dan warna.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
-          <font size="2">Wide range of accessories available.</font>
+          <font size="2">Berbagai macam aksesori yang tersedia.</font>
         </p>
         <div class="form-group">
           &nbsp;
@@ -127,16 +127,16 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 700px; height: 550px">
+              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 700px; height: 600px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 700px; height: 550px">
+              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 700px; height: 600px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 700px; height: 550px">
+              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 700px; height: 600px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 700px; height: 550px">
+              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 700px; height: 600px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
