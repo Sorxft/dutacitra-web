@@ -8,7 +8,7 @@
   {{--  Start of Navigation Bar  --}}
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark" style="background-color: #005A86">
   <a class="navbar-brand" href="#">
-    <img class="img-responsive" src="@asset('images/logo.png')" style="width: 300px; height: 50px">
+    <img class="img-responsive" src="@asset('images/companylogo.png')" style="width: 250px; height: 40px">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -82,44 +82,42 @@
         <h3 class="featurette-heading">
           <p>Hermetic swing doors</p>
         </h3>
-        <p class="text-muted">
+        <p class="text-muted" style="line-height:20px">
           <font size="2">Mekanisme unik menjamin kedap udara dari pintu ayun kami. Bisa beradaptasi dengan proyek apa pun dari sudut pandang fungsional dan estetika.</font>
         </p>
-        <div class="form-group">
           &nbsp;
-        </div>
         <h5>
           <p>Main features</p>
         </h5>
-        <p class="text-muted" style="margin-bottom:8px">
+        <p class="text-muted" style="margin-bottom:8px; line-height:15px">
           <font size="2">Pintu dirancang untuk menjamin dan memastikan kedap udara.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
           <font size="2">Kebersihan terjamin berkat bahan seperti stainless steel atau high-density laminate.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
           <font size="2">Flush-view panel desain yang elegan dan mudah dibersihkan.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
           <font size="2">Keamanan Maksimal.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
           <font size="2">Pembukaan one or double leaf</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
           <font size="2">Pintu dirancang untuk menjamin kebersihan.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
           <font size="2">Ukuran yang dapat disesuaikan, opsi penyelesaian dan warna.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
           <font size="2">Berbagai macam aksesori yang tersedia.</font>
         </p>
         <div class="form-group">
@@ -131,16 +129,16 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 700px; height: 600px">
+              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 700px; height: 600px">
+              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 700px; height: 600px">
+              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 700px; height: 600px">
+              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -151,6 +149,12 @@
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
           </a>
+        </div>
+        <div class="form-group">
+          &nbsp;
+        </div>
+        <div style="font-size: 0.5rem;">
+          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produkkami" style="color: #000000;">produk</a></font></i>
         </div>
       </div>
     </div>
@@ -219,7 +223,7 @@
       </div>
       <div class="col-md-6" style="padding-right: 30px">
         <div class="embed-responsive" id="map" style="width:100%; height: 100%">
-          <iframe src="https://www.google.com/maps/d/embed?mid=1KUF4ZpXzXlC7wQnxCHtxMyGSbeZ0ag8i" width="640" height="480"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2404.106177147405!2d106.71127686001809!3d-6.148310937122636!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f9f26ee22301%3A0xd48a5a308918c15a!2sPT.+DutaCitra+NusaJaya!5e0!3m2!1sen!2sid!4v1532750663575" width="640" height="480" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
       </div>
     </div>

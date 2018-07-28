@@ -8,7 +8,7 @@
  {{--  Start of Navigation Bar  --}}
 <nav class="navbar navbar-expand-lg fixed-top navbar-dark" style="background-color: #005A86">
   <a class="navbar-brand" href="#">
-    <img class="img-responsive" src="@asset('images/logo.png')" style="width: 250px; height: 40px">
+    <img class="img-responsive" src="@asset('images/companylogo.png')" style="width: 250px; height: 40px">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -42,7 +42,7 @@
         <a class="nav-link" href="#tentangkami"><strong><font color="#ffffff">Tentang Kami</font></strong></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#tentangkami"><font color="#ffffff">E-mail</font></a>
+        <a class="nav-link" href="mailto:ryanpatrickwong1707@gmail.com"><font color="#ffffff">E-mail</font></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#kontak"><strong><font color="#ffffff">Kontak Kami</font></strong></a>
@@ -293,7 +293,7 @@
       </div>
       <div class="col-md-6" style="padding-right: 30px">
         <div class="embed-responsive" id="map" style="width:100%; height: 100%">
-          <iframe src="https://www.google.com/maps/d/embed?mid=1KUF4ZpXzXlC7wQnxCHtxMyGSbeZ0ag8i" width="640" height="480"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2404.106177147405!2d106.71127686001809!3d-6.148310937122636!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f9f26ee22301%3A0xd48a5a308918c15a!2sPT.+DutaCitra+NusaJaya!5e0!3m2!1sen!2sid!4v1532750663575" width="640" height="480" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
       </div>
     </div>
