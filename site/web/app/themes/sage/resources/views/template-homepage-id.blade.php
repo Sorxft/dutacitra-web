@@ -42,7 +42,7 @@
         <a class="nav-link" href="#tentangkami"><strong><font color="#ffffff">Tentang Kami</font></strong></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="mailto:ryanpatrickwong1707@gmail.com"><font color="#ffffff">E-mail</font></a>
+        <a class="nav-link" href="mailto:dutacitra.nusajaya@yahoo.co.id"><font color="#ffffff">E-mail</font></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#kontak"><strong><font color="#ffffff">Kontak Kami</font></strong></a>
