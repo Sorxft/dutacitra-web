@@ -1,5 +1,5 @@
 {{--
-  Template Name: hermatic-swingdoors-id Template
+  Template Name: hermetic-slidingdoors-id Template
 --}}
 
 @extends('layouts.app')
@@ -16,10 +16,10 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="#"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
+        <a href="http://dutacitra.test/hermetic-slidingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="#"><img class="img-responsive" src="@asset('images/US32.png')"></a>
+        <a href="http://dutacitra.test/hermetic-slidingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
@@ -29,7 +29,7 @@
           <font color="#ffffff">Produk</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-id/">Hermetic sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
@@ -43,7 +43,7 @@
           <strong><font color="#ffffff">Brosur</font></strong>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">Hermatic</a>
+          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">Hermetic</a>
         </div>
       </li>
       <li class="nav-item">
@@ -53,16 +53,16 @@
   </div>
 </nav>
   {{--  End of Navigation Bar  --}}
-<a href="#" class="back-to-top2" style="background: none; margin: 0%; position: fixed; bottom: 20px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px; display: none;">
+<a href="#" class="back-to-top2" style="background: none; margin: 0%; position: fixed; bottom: 0px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px; display: none;">
   <i class="fa fa-angle-double-up"></i>
 </a>  
   {{--  Start of Header  --}}
-<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%">
+<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%;">
   <div class="container-fluid" style="position: relative;">
     <div class="row" style="padding: 0%">
       <img src="@asset('images/background.jpg')" style="width: 100%; padding: 0%; height: 150px">
       <div class="text-center" style="position: absolute; top: 60%; left: 7%; font-family:Arial, Helvetica, sans-serif">
-        <font color="#ffffff"><h2>HERMETIC SWING DOORS</h2></font>
+        <font color="#ffffff"><h2>HERMETIC SLIDING DOORS</h2></font>
       </div>
     </div>
   </div>
@@ -80,14 +80,14 @@
     <div class="row featurette">
       <div class="col-md-4 order-md-2" style="padding-left: 30px">
         <h3 class="featurette-heading">
-          <p>Hermetic swing doors</p>
+          <p>Hermetic sliding doors</p>
         </h3>
         <p class="text-muted" style="line-height:20px">
-          <font size="2">Mekanisme unik menjamin kedap udara dari pintu ayun kami. Bisa beradaptasi dengan proyek apa pun dari sudut pandang fungsional dan estetika.</font>
+          <font size="2">Pintu geser hermetic adalah pintu kedap udara karena sistem fungsi pintu tersebut. Mempunyai berbagai pilihan dan finishing akhir serta dapat menyesuaikannya dengan proyek arsitektur apa pun.</font>
         </p>
           &nbsp;
         <h5>
-          <p>Main features</p>
+          <p>Fitur utama</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px; line-height:15px">
           <font size="2">Pintu dirancang untuk menjamin dan memastikan kedap udara.</font>
@@ -106,11 +106,7 @@
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
-          <font size="2">Pembukaan one or double leaf</font>
-        </p>
-        <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Pintu dirancang untuk menjamin kebersihan.</font>
+          <font size="2">Pembukaan bi-part atau single-slide leaf.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
@@ -129,16 +125,16 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding1.jpg')" alt="First slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding2.jpg')" alt="Second slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding3.jpg')" alt="Third slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding4.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -154,7 +150,7 @@
           &nbsp;
         </div>
         <div style="font-size: 0.5rem;">
-          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produkkami" style="color: #000000;">produk</a></font></i>
+          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produk" style="color: #000000;">produk</a></font></i>
         </div>
       </div>
     </div>
@@ -213,12 +209,11 @@
             <p><font color="#999994">  Website address here</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934" size="4"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
             <p style="margin: 0%"><font color="#999994" size="2">  PT. DutaCitra Nusa Jaya</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Jl. Utan Jati, Ruko Daan Mogot Baru</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Blok LB 2 No. 15 Kalideres</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Jakarta Barat 11840, Indonesia</font></p>
-          </li>
         </ul>
       </div>
       <div class="col-md-6" style="padding-right: 30px">

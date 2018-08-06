@@ -16,10 +16,10 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="#"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
+        <a href="http://dutacitra.test/lineardoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="#"><img class="img-responsive" src="@asset('images/US32.png')"></a>
+        <a href="http://dutacitra.test/lineardoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
@@ -29,7 +29,7 @@
           <font color="#ffffff">Produk</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-id/">Hermetic sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
@@ -83,30 +83,38 @@
           <p>Linear doors</p>
         </h3>
         <p class="text-muted" style="line-height:20px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh</font>
+          <font size="2">Pintu linear menggunakan sistem otomasi berdasarkan teknlogi motor linear. Digunakan untuk penggunaan rumah, perumahan dan komersial. Sangat efisien untuk mengotomatisasi gerakan horizontal dengan memiliki lebih sedikit komponen mekanis.</font>
         </p>
           &nbsp;
         <h5>
-          <p>Main features</p>
+          <p>Fitur utama</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px; line-height:15px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo</font>
+          <font size="2">Menggunakan teknologi motor linier.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Desain yang sederhana.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Rangka pintu yang tipis.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Penggerak motor linear tidak memiliki pulley, belt, lengan dan elemen mekanis lainnya.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Donec id elit non mi porta gravida at eget metus.</font>
+          <font size="2">Keamanan maksimal.</font>
+        </p>
+        <hr style="margin-top: 0%; margin-bottom: 0%">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
+          <font size="2">Unit kompak kecil, sehingga memiliki lebih sedikit komponen mekanis.</font>
+        </p>
+        <hr style="margin-top: 0%; margin-bottom: 0%">
+        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
+          <font size="2">Proses instalasi yang sederhana.</font>
         </p>
         <div class="form-group">
           &nbsp;
@@ -117,16 +125,13 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/linear1.jpg')" alt="First slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/linear2.jpg')" alt="Second slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 660px; height: 465px">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/linear3.jpg')" alt="Third slide" style="width: 660px; height: 465px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -142,7 +147,7 @@
           &nbsp;
         </div>
         <div style="font-size: 0.5rem;">
-          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produkkami" style="color: #000000;">produk</a></font></i>
+          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produk" style="color: #000000;">produk</a></font></i>
         </div>
       </div>
     </div>

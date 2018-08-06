@@ -1,5 +1,5 @@
 {{--
-  Template Name: swingdoors-id Template
+  Template Name: hermetic-slidingdoors-en Template
 --}}
 
 @extends('layouts.app')
@@ -16,55 +16,53 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="http://dutacitra.test/swingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
+        <a href="http://dutacitra.test/hermetic-slidingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="http://dutacitra.test/swingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
+        <a href="http://dutacitra.test/hermetic-slidingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="http://dutacitra.test/en/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <font color="#ffffff">Produk</font>
+          <font color="#ffffff">Products</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-id/">Hermetic sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/lineardoors-id/">Linear doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-en/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-en/">Hermetic swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-en/">Sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/swingdoors-en/">Swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/lineardoors-en/">Linear doors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Produk lain</a>
+          <a class="dropdown-item" href="#">Other products</a>
         </div>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <strong><font color="#ffffff">Brosur</font></strong>
+          <strong><font color="#ffffff">Brochure</font></strong>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door.pdf">Vector</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door_operator.pdf">Vector operator</a>
+          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">Hermetic</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#contact"><font color="#ffffff">Kontak Kami</font></a>
+        <a class="nav-link" href="#contact"><font color="#ffffff">Contact Us</font></a>
       </li>
     </ul>
   </div>
 </nav>
   {{--  End of Navigation Bar  --}}
-<a href="#" class="back-to-top2" style="background: none; margin: 0%; position: fixed; bottom: 20px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px; display: none;">
+<a href="#" class="back-to-top2" style="background: none; margin: 0%; position: fixed; bottom: 0px; right: 0%; width: 70px; height: 70px; z-index: 100; color: #ffffff; background-color: #000000; font-size: 60px; display: none;">
   <i class="fa fa-angle-double-up"></i>
 </a>  
   {{--  Start of Header  --}}
-<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%">
+<div class="jumbotron-fluid" style="top-margin: 100px; padding: 0%;">
   <div class="container-fluid" style="position: relative;">
     <div class="row" style="padding: 0%">
       <img src="@asset('images/background.jpg')" style="width: 100%; padding: 0%; height: 150px">
       <div class="text-center" style="position: absolute; top: 60%; left: 7%; font-family:Arial, Helvetica, sans-serif">
-        <font color="#ffffff"><h2>SWING DOORS</h2></font>
+        <font color="#ffffff"><h2>HERMETIC SLIDING DOORS</h2></font>
       </div>
     </div>
   </div>
@@ -82,67 +80,61 @@
     <div class="row featurette">
       <div class="col-md-4 order-md-2" style="padding-left: 30px">
         <h3 class="featurette-heading">
-          <p>Swing doors</p>
+          <p>Hermetic sliding doors</p>
         </h3>
         <p class="text-muted" style="line-height:20px">
-          <font size="2">Pintu model swing menyediakan fungsionalitas, keamanan, dan desain. Penyelesaian dan warna yang dipersonalisasi memungkinkan untuk beradaptasi dengan sempurna untuk semua tempat di mana pintu akan dipasang.</font>
+          <font size="2">The sliding hermetic doors guarantees air tightness thanks to its unique features. Wide range of finish options and functionalities to adapt it to any architectural project.</font>
         </p>
           &nbsp;
         <h5>
-          <p>Fitur utama</p>
+          <p>Main features</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px; line-height:15px">
-          <font size="2">Pintu swing adalah model yang paling mudah disesuaikan.</font>
+          <font size="2">The totality of the door is designed to guarantee and ensure hermetic tightness.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
-          <font size="2">Pemasangan pintu swing sangat mudah.</font>
+          <font size="2">Guaranteed hygiene thanks to materials such as stainless steel or high density laminate.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Mudah untuk mengotomatisasi pintu baru atau yang sudah ada.</font>
+          <font size="2">Elegant design flush-view panel and easy cleaning.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Keamanan Maksimal.</font>
+          <font size="2">Maximum security.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
-          <font size="2">Pembukaan luar atau dalam.</font>
+          <font size="2">Bi-part or single-slide leaf opening.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Satu pintu swing digerakkan oleh satu operator.</font>
+          <font size="2">Fully customizable sizes, finish options and colours.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Desain operator yang minimalis.</font>
-        </p>
-        <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 6px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Ukuran, opsi penyelesaian, dan warna dapat disesuaikan sepenuhnya.</font>
-        </p>
-        <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Berbagai macam aksesori yang tersedia.</font>
+          <font size="2">Wide range of accessories available.</font>
         </p>
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door.pdf">View Vector PDF</a>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door_operator.pdf">View Vector Operator PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">View Hermetic PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/swing1.jpg')" alt="First slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding1.jpg')" alt="First slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/swing2.jpg')" alt="Second slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding2.jpg')" alt="Second slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/swing3.jpg')" alt="Third slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding3.jpg')" alt="Third slide" style="width: 660px; height: 465px">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="@asset('images/hermeticsliding4.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -158,7 +150,7 @@
           &nbsp;
         </div>
         <div style="font-size: 0.5rem;">
-          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produk" style="color: #000000;">produk</a></font></i>
+          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Back to <a href="http://dutacitra.test/en/#products" style="color: #000000;">products</a></font></i>
         </div>
       </div>
     </div>
@@ -174,7 +166,7 @@
   </div>
 </div>
   {{--  End of Description  --}}
-  {{--  Start of KONTAK KAMI  --}}
+  {{--  Start of CONTACT US  --}}
 <div style="width: 100%; background-color: #000000">
   <div class="container" id="contact">
     <div class="form-group">
@@ -186,7 +178,7 @@
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-white">
         <h1>
-          <font color="#6B685F"><p class="text-center">KONTAK KAMI</p></font>
+          <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
         </h1>
       </div>
     </div>
@@ -201,7 +193,7 @@
             <p><font color="#999994" size="2">  Michael.W (+6281293237874)</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
+            <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPHONE</font></i></font>
             <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
@@ -217,12 +209,11 @@
             <p><font color="#999994">  Website address here</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934" size="4"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ADDRESS</font></i></font>
             <p style="margin: 0%"><font color="#999994" size="2">  PT. DutaCitra Nusa Jaya</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Jl. Utan Jati, Ruko Daan Mogot Baru</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Blok LB 2 No. 15 Kalideres</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Jakarta Barat 11840, Indonesia</font></p>
-          </li>
         </ul>
       </div>
       <div class="col-md-6" style="padding-right: 30px">
@@ -242,5 +233,5 @@
     </div>
   </div>
 </div>
-    {{--  End of KONTAK KAMI  --}}
+    {{--  End of CONTACT US  --}}
 @endsection

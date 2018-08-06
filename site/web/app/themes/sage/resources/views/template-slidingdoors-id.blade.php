@@ -16,10 +16,10 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="#"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
+        <a href="http://dutacitra.test/slidingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="#"><img class="img-responsive" src="@asset('images/US32.png')"></a>
+        <a href="http://dutacitra.test/slidingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
@@ -29,7 +29,7 @@
           <font color="#ffffff">Produk</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/hermaticdoor-slidingdoors-id/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-id/">Hermetic sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
@@ -85,22 +85,22 @@
           <p>Sliding doors</p>
         </h3>
         <p class="text-muted" style="line-height:20px">
-          <font size="2">Pintu geser dengan bi-part atau single slide opening adalah pintu otomatis dan fungsional yang paling populer. Dianjurkan untuk pintu masuk publik dan keluar dari arus lalu lintas tinggi orang, atau di mana keamanan pengguna terkait dengan arus lalu lintas.</font>
+          <font size="2">Pintu geser dengan model bi-part atau single slide adalah pintu otomatis yang fungsional dan paling populer. Dipasang pada pintu masuk utama dan sangat aman dengan frekuensi lalu lintas orang yang sangat tinggi.</font>
         </p>
           &nbsp;
         <h5>
-          <p>Main features</p>
+          <p>Fitur utama</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px; line-height:15px">
           <font size="2">Pintu otomatis paling populer dan fungsional.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
-          <font size="2">Dianjurkan untuk masuk dan keluar dengan arus lalu lintas tinggi orang.</font>
+          <font size="2">Cocok untuk masuk dan keluar orang dengan frekuensi arus lalu lintas tinggi.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Tawarkan kecepatan pembukaan maksimum.</font>
+          <font size="2">Kecepatan pembukaan maksimum.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
@@ -128,16 +128,16 @@
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/landscape.jpg')" alt="First slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/sliding1.jpg')" alt="First slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/mountains.jpg')" alt="Second slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/sliding2.jpg')" alt="Second slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/beach.jpg')" alt="Third slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/sliding3.jpg')" alt="Third slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/windmills.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/sliding4.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -153,7 +153,7 @@
           &nbsp;
         </div>
         <div style="font-size: 0.5rem;">
-          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produkkami" style="color: #000000;">produk</a></font></i>
+          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produk" style="color: #000000;">produk</a></font></i>
         </div>
       </div>
     </div>

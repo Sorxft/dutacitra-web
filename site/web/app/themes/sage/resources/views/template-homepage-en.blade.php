@@ -1,5 +1,5 @@
 {{--
-  Template Name: home-id Template
+  Template Name: home-en Template
 --}}
 
 @extends('layouts.app')
@@ -22,30 +22,30 @@
         <a href="http://dutacitra.test/en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link home" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
+        <a class="nav-link home" href="http://dutacitra.test/en/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          <font color="#ffffff">Produk</font>
+          <font color="#ffffff">Products</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-id/">Hermetic sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/lineardoors-id/">Linear doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-en/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-en/">Hermetic swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-en/">Sliding doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/swingdoors-en/">Swing doors</a>
+          <a class="dropdown-item" href="http://dutacitra.test/lineardoors-en/">Linear doors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Produk lain</a>
+          <a class="dropdown-item" href="#">Other products</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#tentangkami"><strong><font color="#ffffff">Tentang Kami</font></strong></a>
+        <a class="nav-link" href="#aboutus"><strong><font color="#ffffff">About Us</font></strong></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="mailto:dutacitra.nusajaya@yahoo.co.id"><font color="#ffffff">E-mail</font></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#contact"><strong><font color="#ffffff">Kontak Kami</font></strong></a>
+        <a class="nav-link" href="#contact"><strong><font color="#ffffff">Contact Us</font></strong></a>
       </li>
     </ul>
   </div>
@@ -90,9 +90,9 @@
   </div>
 </div>
   {{--  End of Images Slides  --}}
-   {{--  Start TENTANG KAMI  --}}
+   {{--  Start ABOUT US  --}}
 <div style="width: 100%; background-color: #DDDBD2;">
-  <div class="container" id="tentangkami">
+  <div class="container" id="aboutus">
     <div class="form-group">
        &nbsp;
     </div>
@@ -105,7 +105,7 @@
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
         <h2 class="featurette-heading">
-          <p class="text-center">TENTANG KAMI</p>
+          <p class="text-center">ABOUT US</p>
        </h2>
        <p class="lead">
          Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
@@ -126,10 +126,10 @@
     &nbsp;
   </div>
 </div>
-    {{--  End TENTANG KAMI  --}}
+    {{--  End ABOUT US  --}}
     {{--  Start of Card  --}}
 <div style="width: 100%;">
-  <div class="container" id="produk">
+  <div class="container" id="products">
     <div class="form-group">
       &nbsp;
     </div>
@@ -142,7 +142,7 @@
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-dark">
         <h1>
-          <p class="text-center"><strong>PRODUK KAMI</strong></p>
+          <p class="text-center"><strong>OUR PRODUCTS</strong></p>
         </h1>
       </div>
     </div>
@@ -158,7 +158,7 @@
             <h4 class="card-title text-center">
               Hermetic sliding doors
             </h4>
-            <a href="http://dutacitra.test/hermetic-slidingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/hermetic-slidingdoors-en/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -169,7 +169,7 @@
             <h4 class="card-title text-center">
                 Hermetic swing doors
             </h4>
-            <a href="http://dutacitra.test/hermetic-swingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/hermetic-swingdoors-en/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -189,7 +189,7 @@
                 Sliding doors
               </p>
             </h4>
-            <a href="http://dutacitra.test/slidingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/slidingdoors-en/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -200,7 +200,7 @@
             <h4 class="card-title text-center">
               Swing doors
             </h4>
-            <a href="http://dutacitra.test/swingdoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/swingdoors-en/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -213,7 +213,7 @@
                 Linear doors
               </p>
             </h4>
-            <a href="http://dutacitra.test/lineardoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+            <a href="http://dutacitra.test/lineardoors-en/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>
@@ -234,7 +234,7 @@
   </div>
 </div>
   {{--  End of card  --}}
-  {{--  Start of KONTAK KAMI  --}}
+  {{--  Start of CONTACT US  --}}
 <div style="width: 100%; background-color: #000000">
   <div class="container" id="contact">
     <div class="form-group">
@@ -246,7 +246,7 @@
     <div class="row justify-content-center">
       <div class="col-4 border-bottom border-white">
         <h1>
-          <font color="#6B685F"><p class="text-center">KONTAK KAMI</p></font>
+          <font color="#6B685F"><p class="text-center">CONTACT US</p></font>
         </h1>
       </div>
     </div>
@@ -261,7 +261,7 @@
             <p><font color="#999994" size="2">  Michael.W (+6281293237874)</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
+            <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPHONE</font></i></font>
             <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
@@ -277,7 +277,7 @@
             <p><font color="#999994">  Website address here</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
+            <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ADDRESS</font></i></font>
             <p style="margin: 0%"><font color="#999994" size="2">  PT. DutaCitra Nusa Jaya</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Jl. Utan Jati, Ruko Daan Mogot Baru</font></p>
             <p style="margin: 0%"><font color="#999994" size="2">  Blok LB 2 No. 15 Kalideres</font></p>
@@ -302,5 +302,5 @@
     </div>
   </div>
 </div>
-    {{--  End of KONTAK KAMI  --}}
+    {{--  End of CONTACT US  --}}
 @endsection

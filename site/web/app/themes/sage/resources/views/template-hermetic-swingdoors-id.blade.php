@@ -1,5 +1,5 @@
 {{--
-  Template Name: swingdoors-id Template
+  Template Name: hermetic-swingdoors-id Template
 --}}
 
 @extends('layouts.app')
@@ -16,10 +16,10 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="http://dutacitra.test/swingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
+        <a href="http://dutacitra.test/hermetic-swingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="http://dutacitra.test/swingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
+        <a href="http://dutacitra.test/hermetic-swingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
@@ -43,9 +43,7 @@
           <strong><font color="#ffffff">Brosur</font></strong>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door.pdf">Vector</a>
-          <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door_operator.pdf">Vector operator</a>
+          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">Hermatic</a>
         </div>
       </li>
       <li class="nav-item">
@@ -64,7 +62,7 @@
     <div class="row" style="padding: 0%">
       <img src="@asset('images/background.jpg')" style="width: 100%; padding: 0%; height: 150px">
       <div class="text-center" style="position: absolute; top: 60%; left: 7%; font-family:Arial, Helvetica, sans-serif">
-        <font color="#ffffff"><h2>SWING DOORS</h2></font>
+        <font color="#ffffff"><h2>HERMETIC SWING DOORS</h2></font>
       </div>
     </div>
   </div>
@@ -82,25 +80,25 @@
     <div class="row featurette">
       <div class="col-md-4 order-md-2" style="padding-left: 30px">
         <h3 class="featurette-heading">
-          <p>Swing doors</p>
+          <p>Hermetic swing doors</p>
         </h3>
         <p class="text-muted" style="line-height:20px">
-          <font size="2">Pintu model swing menyediakan fungsionalitas, keamanan, dan desain. Penyelesaian dan warna yang dipersonalisasi memungkinkan untuk beradaptasi dengan sempurna untuk semua tempat di mana pintu akan dipasang.</font>
+          <font size="2">Mekanisme unik menjamin kedap udara dari pintu model swing. Bisa beradaptasi dengan proyek apa pun dari sudut pandang fungsional dan estetika.</font>
         </p>
           &nbsp;
         <h5>
           <p>Fitur utama</p>
         </h5>
         <p class="text-muted" style="margin-bottom:8px; line-height:15px">
-          <font size="2">Pintu swing adalah model yang paling mudah disesuaikan.</font>
+          <font size="2">Pintu dirancang untuk menjamin dan memastikan kedap udara.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
-          <font size="2">Pemasangan pintu swing sangat mudah.</font>
+          <font size="2">Kebersihan terjamin berkat bahan seperti stainless steel atau high-density laminate.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Mudah untuk mengotomatisasi pintu baru atau yang sudah ada.</font>
+          <font size="2">Flush-view panel desain yang elegan dan mudah dibersihkan.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
@@ -108,19 +106,15 @@
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 6px; line-height:15px">
-          <font size="2">Pembukaan luar atau dalam.</font>
+          <font size="2">Pembukaan single atau double leaf</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Satu pintu swing digerakkan oleh satu operator.</font>
+          <font size="2">Pintu dirancang untuk menjamin kebersihan.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Desain operator yang minimalis.</font>
-        </p>
-        <hr style="margin-top: 0%; margin-bottom: 0%">
-        <p class="text-muted" style="margin-top: 6px; margin-bottom: 8px; line-height:15px">
-          <font size="2">Ukuran, opsi penyelesaian, dan warna dapat disesuaikan sepenuhnya.</font>
+          <font size="2">Ukuran yang dapat disesuaikan, opsi penyelesaian dan warna.</font>
         </p>
         <hr style="margin-top: 0%; margin-bottom: 0%">
         <p class="text-muted" style="margin-top: 8px; margin-bottom: 8px; line-height:15px">
@@ -129,20 +123,22 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door.pdf">View Vector PDF</a>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/Vector_swing_door_operator.pdf">View Vector Operator PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/hermetic.pdf">View Hermetic PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="@asset('images/swing1.jpg')" alt="First slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticswing1.jpg')" alt="First slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/swing2.jpg')" alt="Second slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticswing2.jpg')" alt="Second slide" style="width: 660px; height: 465px">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="@asset('images/swing3.jpg')" alt="Third slide" style="width: 660px; height: 465px">
+              <img class="d-block w-100" src="@asset('images/hermeticswing3.jpg')" alt="Third slide" style="width: 660px; height: 465px">
+            </div>
+            <div class="carousel-item">
+              <img class="d-block w-100" src="@asset('images/hermeticswing4.jpg')" alt="Fourth slide" style="width: 660px; height: 465px">
             </div>
           </div>
           <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
