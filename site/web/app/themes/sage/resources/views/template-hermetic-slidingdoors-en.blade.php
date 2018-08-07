@@ -35,7 +35,9 @@
           <a class="dropdown-item" href="http://dutacitra.test/swingdoors-en/">Swing doors</a>
           <a class="dropdown-item" href="http://dutacitra.test/lineardoors-en/">Linear doors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="#">Other products</a>
+          <a class="dropdown-item" href="http://dutacitra.test/other-en/">Other products</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="http://dutacitra.test/projectreferences-en/">Project references</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -202,7 +204,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-at fa-sm"><font color="#ffffff"> E-MAIL</font></i></font>
-            <p><font color="#999994" size="2">  dutacitra.nusajaya@yahoo.co.id</font></p>
+            <a href="mailto:dutacitra.nusajaya@yahoo.co.id"><p><font color="#999994" size="2">  dutacitra.nusajaya@yahoo.co.id</font></p></a>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-globe fa-sm"><font color="#ffffff"> WEBSITE</font></i></font>
