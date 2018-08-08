@@ -134,7 +134,7 @@
           <p class="text-center">ABOUT US</p>
        </h2>
        <p class="lead">
-         PT. DutaCitra Nusa Jaya is the Sole Distributor of Manusa Automatic Doors, Barcelona - Spain, in Indonesia.
+         PT. DutaCitra Nusa Jaya is the Sole Distributor of Manusa Automatic Doors, Barcelona - Spain, in Indonesia. Doors such as : Hermetic sliding doors, Hemetic swing doors, Sliding doors, Swing doors and Linear doors
        </p>
        <p class="lead">
           PT. DutaCitra Nusa Jaya was founded in 2004, and specializes in Automatic Door operators.
