@@ -44,7 +44,7 @@
         <a class="nav-link" href="#aboutus"><strong><font color="#ffffff">About Us</font></strong></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="mailto:dutacitra.nusajaya@yahoo.co.id"><font color="#ffffff">E-mail</font></a>
+        <a class="nav-link" href="mailto:dutacitramarketing@gmail.com"><font color="#ffffff">E-mail</font></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contact"><strong><font color="#ffffff">Contact Us</font></strong></a>
@@ -63,21 +63,45 @@
       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
       <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+      <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img class="d-block w-100" src="@asset('images/banner1.jpg')" alt="First slide" style="width: 100%; height: 600px">
         <div class="carousel-caption d-none d-md-block">
+          <p>Automatic Sliding Door</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="@asset('images/sliding2.jpg')" alt="Second slide" style="width: 100%; height: 600px">
         <div class="carousel-caption d-none d-md-block">
+          <p>Automatic Sliding Door</p>
         </div>
       </div>
       <div class="carousel-item">
         <img class="d-block w-100" src="@asset('images/hermeticsliding1.jpg')" alt="Third slide" style="width: 100%; height: 600px">
         <div class="carousel-caption d-none d-md-block">
+          <p>Hermetic Sliding Door</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="@asset('images/hermeticswing2.jpg')" alt="Fourth slide" style="width: 100%; height: 600px">
+        <div class="carousel-caption d-none d-md-block">
+          <p>Hermetic Swing Door</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="@asset('images/swing3.jpg')" alt="Fifth slide" style="width: 100%; height: 600px">
+        <div class="carousel-caption d-none d-md-block">
+          <p>Automatic Swing Door</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img class="d-block w-100" src="@asset('images/linear3.jpg')" alt="Sixth slide" style="width: 100%; height: 600px">
+        <div class="carousel-caption d-none d-md-block">
+          <p>Linear Door</p>
         </div>
       </div>
     </div>
@@ -110,11 +134,18 @@
           <p class="text-center">ABOUT US</p>
        </h2>
        <p class="lead">
-         Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+          PT. DutaCitra Nusa Jaya was founded in 2004, and specializes in Automatic Door operators. Since its inception, DutaCitra Nusa Jaya has been the Sole Distributor of Manusa Automatic Doors, Barcelona - Spain.
        </p>
+       <p class="lead">
+          After a long period of operation, of course we have a very adequate and Professional Work Team. Therefore, we not only make sales and installations, but also do after sales services, either in the form of repairs to the damage that occurs or also periodic services.
+       </p>
+       <blockquote class="blockquote">
+        <p class="mb-0">"If nobody opens the door for you, please call us"</p>
+        <footer class="blockquote-footer"><cite title="Source Title">PT.DutaCitra Nusa Jaya</cite></footer>
+       </blockquote>
      </div>
       <div class="col-md-5 order-md-1">
-        <img class="feature-image img-fluid mx-auto rounded" alt="500x500" src="@asset('images/windmills.jpg')" style="width: 500px; height: 500px;">
+        <img class="feature-image img-fluid mx-auto rounded" alt="500x500" src="@asset('images/about.jpg')" style="width: 500px; height: 500px;">
       </div>
     </div>
   </div>
@@ -272,11 +303,11 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-at fa-sm"><font color="#ffffff"> E-MAIL</font></i></font>
-            <a href="mailto:dutacitra.nusajaya@yahoo.co.id"><p><font color="#999994" size="2">  dutacitra.nusajaya@yahoo.co.id</font></p></a>
+            <a href="mailto:dutacitramarketing@gmail.com"><p><font color="#999994" size="2">  dutacitramarketing@gmail.com</font></p></a>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-globe fa-sm"><font color="#ffffff"> WEBSITE</font></i></font>
-            <p><font color="#999994">  Website address here</font></p>
+            <p><font color="#999994" size="2">  dutacitranusajaya.com</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ADDRESS</font></i></font>
@@ -302,6 +333,11 @@
     <div class="form-group" style="margin-bottom: 0%">
     &nbsp;
     </div>
+  </div>
+</div>
+<div style="width: 100%; background-color: #000000" style="margin-bottom: 0%">
+  <div class="container" style="margin-bottom: 0%">
+    <p class="text-center" style="margin-bottom:0%"> made by <a href="https://ryanpatrickwong.com/" style="color: #696969;">Ryan Patrick Wong</a></p>
   </div>
 </div>
     {{--  End of CONTACT US  --}}

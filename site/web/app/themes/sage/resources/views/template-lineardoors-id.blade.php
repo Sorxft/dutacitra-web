@@ -201,11 +201,11 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-at fa-sm"><font color="#ffffff"> E-MAIL</font></i></font>
-            <a href="mailto:dutacitra.nusajaya@yahoo.co.id"><p><font color="#999994" size="2">  dutacitra.nusajaya@yahoo.co.id</font></p></a>
+            <a href="mailto:dutacitramarketing@gmail.com"><p><font color="#999994" size="2">  dutacitramarketing@gmail.com</font></p></a>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-globe fa-sm"><font color="#ffffff"> WEBSITE</font></i></font>
-            <p><font color="#999994">  Website address here</font></p>
+            <p><font color="#999994" size="2">  dutacitranusajaya.com</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934" size="4"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>
@@ -231,6 +231,11 @@
     <div class="form-group" style="margin-bottom: 0%">
     &nbsp;
     </div>
+  </div>
+</div>
+<div style="width: 100%; background-color: #000000" style="margin-bottom: 0%">
+  <div class="container" style="margin-bottom: 0%">
+    <p class="text-center" style="margin-bottom:0%"> made by <a href="https://ryanpatrickwong.com/" style="color: #696969;">Ryan Patrick Wong</a></p>
   </div>
 </div>
     {{--  End of KONTAK KAMI  --}}
