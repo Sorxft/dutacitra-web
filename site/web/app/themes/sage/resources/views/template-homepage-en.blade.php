@@ -134,7 +134,10 @@
           <p class="text-center">ABOUT US</p>
        </h2>
        <p class="lead">
-          PT. DutaCitra Nusa Jaya was founded in 2004, and specializes in Automatic Door operators. Since its inception, DutaCitra Nusa Jaya has been the Sole Distributor of Manusa Automatic Doors, Barcelona - Spain.
+         PT. DutaCitra Nusa Jaya is the Sole Distributor of Manusa Automatic Doors, Barcelona - Spain, in Indonesia.
+       </p>
+       <p class="lead">
+          PT. DutaCitra Nusa Jaya was founded in 2004, and specializes in Automatic Door operators.
        </p>
        <p class="lead">
           After a long period of operation, of course we have a very adequate and Professional Work Team. Therefore, we not only make sales and installations, but also do after sales services, either in the form of repairs to the damage that occurs or also periodic services.
