@@ -2,7 +2,7 @@
 # List each machine only once per [group], even if it will host multiple sites.
 
 [production]
-178.128.48.77
+dutacitra-automaticdoor.com
 
 [web]
-178.128.48.77
+dutacitra-automaticdoor.com
