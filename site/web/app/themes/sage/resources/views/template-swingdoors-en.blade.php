@@ -45,9 +45,9 @@
           <strong><font color="#ffffff">Brochure</font></strong>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/Vector_swing_door.pdf">Vector</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/Vector_swing_door.pdf">Vector</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/Vector_swing_door_operator.pdf">Vector operator</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/Vector_swing_door_operator.pdf">Vector operator</a>
         </div>
       </li>
       <li class="nav-item">
@@ -131,8 +131,8 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/Vector_swing_door.pdf">View Vector PDF</a>
-        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/Vector_swing_door_operator.pdf">View Vector Operator PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/Vector_swing_door.pdf">View Vector PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/Vector_swing_door_operator.pdf">View Vector Operator PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">

@@ -45,7 +45,7 @@
           <strong><font color="#ffffff">Brosur</font></strong>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/linear.pdf">Linear door</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/linear.pdf">Linear door</a>
         </div>
       </li>
       <li class="nav-item">
@@ -121,7 +121,7 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/linear.pdf">View Linear doors PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/linear.pdf">View Linear doors PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
