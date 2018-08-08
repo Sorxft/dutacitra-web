@@ -16,28 +16,28 @@
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
     <ul class="navbar-nav ml-auto">
       <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="http://dutacitra.test/slidingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
+        <a href="https://dutacitra-automaticdoor.com/slidingdoors-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
       <li class="nav-item" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
-        <a href="http://dutacitra.test/slidingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
+        <a href="https://dutacitra-automaticdoor.com/slidingdoors-en/"><img class="img-responsive" src="@asset('images/US32.png')"></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://dutacitra.test/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="https://dutacitra-automaticdoor.com/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <font color="#ffffff">Produk</font>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/hermetic-slidingdoors-id/">Hermetic sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/hermetic-swingdoors-id/">Hermetic swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/slidingdoors-id/">Sliding doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/swingdoors-id/">Swing doors</a>
-          <a class="dropdown-item" href="http://dutacitra.test/lineardoors-id/">Linear doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-slidingdoors-id/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-swingdoors-id/">Hermetic swing doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/slidingdoors-id/">Sliding doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/swingdoors-id/">Swing doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/lineardoors-id/">Linear doors</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="http://dutacitra.test/other-id/">Produk lain</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/other-id/">Produk lain</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="http://dutacitra.test/projectreferences-id/">Referensi proyek</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/projectreferences-id/">Referensi proyek</a>
         </div>
       </li>
       <li class="nav-item dropdown">
@@ -45,9 +45,9 @@
           <strong><font color="#ffffff">Brosur</font></strong>
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/visio.pdf">Visio</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/visio.pdf">Visio</a>
           <div class="dropdown-divider"></div>
-          <a class="dropdown-item" href="http://dutacitra.test/app/uploads/2018/07/activaplus.pdf">Activa</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/activaplus.pdf">Activa</a>
         </div>
       </li>
       <li class="nav-item">
@@ -123,8 +123,8 @@
         <div class="form-group">
           &nbsp;
         </div>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/visio.pdf">View Visio PDF</a>
-        <a class="btn btn-outline-secondary btn-sm" href="http://dutacitra.test/app/uploads/2018/07/activaplus.pdf">View Activa PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/visio.pdf">View Visio PDF</a>
+        <a class="btn btn-outline-secondary btn-sm" href="https://dutacitra-automaticdoor.com/app/uploads/2018/07/activaplus.pdf">View Activa PDF</a>
       </div>
       <div class="col-md-8 order-md-1">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -155,7 +155,7 @@
           &nbsp;
         </div>
         <div style="font-size: 0.5rem;">
-          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="http://dutacitra.test/#produk" style="color: #000000;">produk</a></font></i>
+          <i class="far fa-arrow-alt-circle-left fa-2x"><font class="text-muted" size="3">  Kembali ke <a href="https://dutacitra-automaticdoor.com/#produk" style="color: #000000;">produk</a></font></i>
         </div>
       </div>
     </div>
