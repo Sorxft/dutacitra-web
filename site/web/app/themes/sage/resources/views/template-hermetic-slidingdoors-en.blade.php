@@ -25,10 +25,10 @@
         <a class="nav-link" href="https://dutacitra-automaticdoor.com/en/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <a class="dropdown-toggle">
           <font color="#ffffff">Products</font>
         </a>
-        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <ul class="dropdown-menu">
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-slidingdoors-en/">Hermetic sliding doors</a></li>
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-swingdoors-en/">Hermetic swing doors</a></li>
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/slidingdoors-en/">Sliding doors</a></li>
@@ -40,13 +40,13 @@
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/projectreferences-en/">Project references</a></li>
         </ul>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <li class="dropdown">
+        <a class="dropdown-toggle">
           <strong><font color="#ffffff">Brochure</font></strong>
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/hermetic.pdf">Hermetic</a>
-        </div>
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/hermetic.pdf">Hermetic</a></li>
+        </ul>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contact"><font color="#ffffff">Contact Us</font></a>
