@@ -14,7 +14,7 @@
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="navbar-collapse collapse navbar-right" id="navbarNav">
-    <ul class="navbar-nav ml-auto">
+    <ul class="nav navbar-nav ml-auto">
       <li class="nav-item border-right border-light" style="padding-top: 8px; padding-left: 5px; padding-right: 5px">
         <a href="https://dutacitra-automaticdoor.com/projectreferences-id/"><img class="img-responsive" src="@asset('images/ID32.png')"></a>
       </li>
