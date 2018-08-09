@@ -133,15 +133,15 @@
         <h2 class="featurette-heading">
           <p class="text-center">TENTANG KAMI</p>
        </h2>
-       <p class="lead">
-         PT DutaCitra Nusa Jaya adalah Sole Distributor Manusa Automatic Doors, Barcelona - Spain, di Indonesia. Pintu seperti : Hermetic sliding doors, Hemetic swing doors, Sliding doors, Swing doors and Linear doors
+       <p class="lead" style="text-align:justify">
+         PT. DutaCitra Nusa Jaya adalah Sole Distributor Manusa Automatic Doors, Barcelona - Spain, di Indonesia. Pintu seperti : Hermetic sliding doors, Hermetic swing doors, Sliding doors, Swing doors and Linear doors
        </p>
-       <p class="lead">
+       <p class="lead" style="text-align:justify">
         PT. DutaCitra Nusa Jaya didirikan pada tahun 2004, dan men specialisasikan diri pada Automatic Door operator.
        </p>
        &nbsp;
-       <p class="lead">
-         Setelah sekian lama beroperasi tentu kamu memiliki Tim Kerja yang sangat memadai dan Profesional. Oleh sebab itu, Kami tidak hanya melakukan penjualan dan Pemasangan, tapi juga melakukan Jasa Pelayanan Purna jual, baik berupa Perbaikan atas kerusakan yang terjadi atau juga merupakan jasa service secara berkala.
+       <p class="lead" style="text-align:justify">
+         Setelah sekian lama beroperasi tentu kami memiliki Tim Kerja yang sangat memadai dan Profesional. Oleh sebab itu, Kami tidak hanya melakukan penjualan dan Pemasangan, tapi juga melakukan Jasa Pelayanan Purna jual, baik berupa Perbaikan atas kerusakan yang terjadi atau juga merupakan jasa service secara berkala.
        </p>
        <blockquote class="blockquote">
         <p class="mb-0">"Jika tidak ada yang membukakan pintu untuk Anda, silahkan hubungi kami"</p>
@@ -294,12 +294,8 @@
       <div class="col-md-6" style="padding-left: 100px">
         <ul class="list-group">
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934"><i class="fa fa-user-alt fa-sm"><font color="#ffffff"> SALES PERSON</font></i></font>
-            <p><font color="#999994" size="2">  Michael.W (+6281293237874)</font></p>
-          </li>
-          <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPON</font></i></font>
-            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
+            <p><font color="#999994" size="2">  (021) 54377520, (021) 29018868, +6281293237874, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>
@@ -311,7 +307,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-globe fa-sm"><font color="#ffffff"> WEBSITE</font></i></font>
-            <p><font color="#999994" size="2">  dutacitranusajaya.com</font></p>
+            <a href="https://dutacitra-automaticdoor.com/"><p><font color="#999994" size="2">  dutacitra-automaticdoor.com</font></p></a>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ALAMAT KANTOR</font></i></font>

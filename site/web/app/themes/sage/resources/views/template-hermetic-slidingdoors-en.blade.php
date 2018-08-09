@@ -84,7 +84,7 @@
         <h3 class="featurette-heading">
           <p>Hermetic sliding doors</p>
         </h3>
-        <p class="text-muted" style="line-height:20px">
+        <p class="text-muted" style="line-height:20px; text-align:justify">
           <font size="2">The sliding hermetic doors guarantees air tightness thanks to its unique features. Wide range of finish options and functionalities to adapt it to any architectural project.</font>
         </p>
           &nbsp;
@@ -191,12 +191,8 @@
       <div class="col-md-6" style="padding-left: 100px">
         <ul class="list-group">
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934"><i class="fa fa-user-alt fa-sm"><font color="#ffffff"> SALES PERSON</font></i></font>
-            <p><font color="#999994" size="2">  Michael.W (+6281293237874)</font></p>
-          </li>
-          <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPHONE</font></i></font>
-            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
+            <p><font color="#999994" size="2">  (021) 54377520, (021) 29018868, +6281293237874, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>
@@ -208,7 +204,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-globe fa-sm"><font color="#ffffff"> WEBSITE</font></i></font>
-            <p><font color="#999994" size="2">  dutacitranusajaya.com</font></p>
+            <a href="https://dutacitra-automaticdoor.com/"><p><font color="#999994" size="2">  dutacitra-automaticdoor.com</font></p></a>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ADDRESS</font></i></font>

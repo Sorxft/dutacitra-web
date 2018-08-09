@@ -133,14 +133,14 @@
         <h2 class="featurette-heading">
           <p class="text-center">ABOUT US</p>
        </h2>
-       <p class="lead">
-         PT. DutaCitra Nusa Jaya is the Sole Distributor of Manusa Automatic Doors, Barcelona - Spain, in Indonesia. Doors such as : Hermetic sliding doors, Hemetic swing doors, Sliding doors, Swing doors and Linear doors
+       <p class="lead" style="text-align:justify">
+         PT. DutaCitra Nusa Jaya is the Sole Distributor of Manusa Automatic Doors, Barcelona - Spain, in Indonesia. Doors such as : Hermetic sliding doors, Hermetic swing doors, Sliding doors, Swing doors and Linear doors
        </p>
-       <p class="lead">
+       <p class="lead" style="text-align:justify">
           PT. DutaCitra Nusa Jaya was founded in 2004, and specializes in Automatic Door operators.
        </p>
-       <p class="lead">
-          After a long period of operation, of course we have a very adequate and Professional Work Team. Therefore, we not only make sales and installations, but also do after sales services, either in the form of repairs to the damage that occurs or also periodic services.
+       <p class="lead" style="text-align:justify">
+          After a long period of operations, of course we have a very adequate and Professional Work Team. Therefore, we not only make sales and installations, but also do after sales services, either in the form of repairs to the damage that occurs or also periodic services.
        </p>
        <blockquote class="blockquote">
         <p class="mb-0">"If nobody opens the door for you, please call us"</p>
@@ -293,12 +293,8 @@
       <div class="col-md-6" style="padding-left: 100px">
         <ul class="list-group">
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
-            <font color="#887934"><i class="fa fa-user-alt fa-sm"><font color="#ffffff"> SALES PERSON</font></i></font>
-            <p><font color="#999994" size="2">  Michael.W (+6281293237874)</font></p>
-          </li>
-          <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-phone-square fa-sm"><font color="#ffffff"> TELEPHONE</font></i></font>
-            <p><font color="#999994" size="2">  (021) 54377520, 29018868, +6285100749223</font></p>
+            <p><font color="#999994" size="2">  (021) 54377520, (021) 29018868, +6281293237874, +6285100749223</font></p>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-fax fa-sm"><font color="#ffffff"> FAX</font></i></font>
@@ -310,7 +306,7 @@
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-globe fa-sm"><font color="#ffffff"> WEBSITE</font></i></font>
-            <p><font color="#999994" size="2">  dutacitranusajaya.com</font></p>
+            <a href="https://dutacitra-automaticdoor.com/"><p><font color="#999994" size="2">  dutacitra-automaticdoor.com</font></p></a>
           </li>
           <li class="list-group-item" style="background-color: #000000; padding: 0%">
             <font color="#887934"><i class="fa fa-map-marker-alt fa-sm"><font color="#ffffff"> ADDRESS</font></i></font>
