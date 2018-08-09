@@ -24,29 +24,29 @@
       <li class="nav-item">
         <a class="nav-link" href="https://dutacitra-automaticdoor.com/en/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
-      <li class="dropdown">
-        <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <font color="#ffffff">Products</font>
         </a>
-        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-slidingdoors-en/">Hermetic sliding doors</a></li>
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-swingdoors-en/">Hermetic swing doors</a></li>
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/slidingdoors-en/">Sliding doors</a></li>
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/swingdoors-en/">Swing doors</a></li>
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/lineardoors-en/">Linear doors</a></li>
-          <li><div class="dropdown-divider"></div></li>
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/other-en/">Other products</a></li>
-          <li><div class="dropdown-divider"></div></li>
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/projectreferences-en/">Project references</a></li>
-        </ul>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-slidingdoors-en/">Hermetic sliding doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-swingdoors-en/">Hermetic swing doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/slidingdoors-en/">Sliding doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/swingdoors-en/">Swing doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/lineardoors-en/">Linear doors</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/other-en/">Other products</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/projectreferences-en/">Project references</a>
+        </div>
       </li>
-      <li class="dropdown">
-        <a class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <strong><font color="#ffffff">Brochure</font></strong>
         </a>
-        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/hermetic.pdf">Hermetic</a></li>
-        </ul>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/hermetic.pdf">Hermetic</a>
+        </div>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#contact"><font color="#ffffff">Contact Us</font></a>
