@@ -25,10 +25,10 @@
         <a class="nav-link" href="https://dutacitra-automaticdoor.com/en/"><strong><font color="#ffffff">Home</font></strong><span class="sr-only">(current)</span></a>
       </li>
       <li class="dropdown">
-        <a class="dropdown-toggle">
+        <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <font color="#ffffff">Products</font>
         </a>
-        <ul class="dropdown-menu">
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-slidingdoors-en/">Hermetic sliding doors</a></li>
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/hermetic-swingdoors-en/">Hermetic swing doors</a></li>
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/slidingdoors-en/">Sliding doors</a></li>
@@ -41,10 +41,10 @@
         </ul>
       </li>
       <li class="dropdown">
-        <a class="dropdown-toggle">
+        <a class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           <strong><font color="#ffffff">Brochure</font></strong>
         </a>
-        <ul class="dropdown-menu">
+        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
           <li><a class="dropdown-item" href="https://dutacitra-automaticdoor.com/app/uploads/2018/08/hermetic.pdf">Hermetic</a></li>
         </ul>
       </li>
