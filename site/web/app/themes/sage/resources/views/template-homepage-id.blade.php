@@ -34,6 +34,7 @@
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/swingdoors-id/">Swing doors</a>
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/lineardoors-id/">Linear doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/expressgate-id/">Express gate</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/other-id/">Produk lain</a>
           <div class="dropdown-divider"></div>
@@ -188,9 +189,9 @@
     </div>
       {{--  Start of row 1  --}}
     <div class="row">
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="card">
-          <img class="card-img-top" src="@asset('images/hermeticsliding2.jpg')" alt="card image cap" style="width: 100%; height: 280px">
+          <img class="card-img-top" src="@asset('images/hermeticsliding2.jpg')" alt="card image cap" style="width: 100%; height: 190px">
           <div class="card-body">
             <h4 class="card-title text-center">
               Hermetic sliding doors
@@ -199,9 +200,9 @@
           </div>
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-4">
         <div class="card">
-          <img class="card-img-top" src="@asset('images/hermeticswing3.jpg')" alt="card image cap" style="width: 100%; height: 280px">
+          <img class="card-img-top" src="@asset('images/hermeticswing3.jpg')" alt="card image cap" style="width: 100%; height: 190px">
           <div class="card-body">
             <h4 class="card-title text-center">
                 Hermetic swing doors
@@ -210,13 +211,6 @@
           </div>
         </div>
       </div>
-    </div>
-    {{--  End of row 1  --}}
-    <div class="form-group">
-      &nbsp;
-    </div>
-    {{--  Start of row 2  --}}
-    <div class="row">
       <div class="col-md-4">
         <div class="card">
           <img class="card-img-top" src="@asset('images/product2.jpg')" alt="card image cap" style="width: 100%; height: 190px">
@@ -230,6 +224,13 @@
           </div>
         </div>
       </div>
+    </div>
+    {{--  End of row 1  --}}
+    <div class="form-group">
+      &nbsp;
+    </div>
+    {{--  Start of row 2  --}}
+    <div class="row">
       <div class="col-md-4">
         <div class="card">
           <img class="card-img-top" src="@asset('images/product1.jpg')" alt="card image cap" style="width: 100%; height: 190px">
@@ -251,6 +252,17 @@
               </p>
             </h4>
             <a href="https://dutacitra-automaticdoor.com/lineardoors-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card">
+          <img class="card-img-top" src="@asset('images/expressgate3.jpg')" alt="card image cap" style="width: 100%; height: 190px">
+          <div class="card-body">
+            <h4 class="card-title text-center">
+              Express gate
+            </h4>
+            <a href="https://dutacitra-automaticdoor.com/expressgate-id/" class="btn btn-small btn-dark float-right">More info  <i class="fa fa-caret-right"></i></a>
           </div>
         </div>
       </div>

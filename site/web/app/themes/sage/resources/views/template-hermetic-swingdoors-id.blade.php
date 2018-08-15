@@ -34,6 +34,7 @@
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/slidingdoors-id/">Sliding doors</a>
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/swingdoors-id/">Swing doors</a>
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/lineardoors-id/">Linear doors</a>
+          <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/expressgate-id/">Express gate</a>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="https://dutacitra-automaticdoor.com/other-id/">Produk lain</a>
           <div class="dropdown-divider"></div>
